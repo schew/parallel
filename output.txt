@@ -1,0 +1,12 @@
+Serial data first took 1 seconds and 359720 microseconds.  Filter length = 16
+Serial filter first took 1 seconds and 537692 microseconds.  Filter length = 16
+Serial data first took 2 seconds and 845620 microseconds.  Filter length = 32
+Serial filter first took 3 seconds and 25909 microseconds.  Filter length = 32
+Serial data first took 5 seconds and 407247 microseconds.  Filter length = 64
+Serial filter first took 6 seconds and 60721 microseconds.  Filter length = 64
+Serial data first took 10 seconds and 547518 microseconds.  Filter length = 128
+Serial filter first took 12 seconds and 123809 microseconds.  Filter length = 128
+Serial data first took 20 seconds and 803229 microseconds.  Filter length = 256
+Serial filter first took 24 seconds and 233968 microseconds.  Filter length = 256
+Serial data first took 41 seconds and 366955 microseconds.  Filter length = 512
+Serial filter first took 48 seconds and 449690 microseconds.  Filter length = 512
