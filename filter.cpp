@@ -133,7 +133,7 @@ void parallelFilterFirst ( int data_len, unsigned int* input_array, unsigned int
 
   timeval_subtract ( &tresult, &tb, &ta );
 
-  printf ("Serial filter first took %lu seconds and %lu microseconds.  Filter length = %d\n", tresult.tv_sec, tresult.tv_usec, filter_len );
+  printf ("Parallel filter first took %lu seconds and %lu microseconds.  Filter length = %d\n", tresult.tv_sec, tresult.tv_usec, filter_len );
   return;
 }
 
@@ -166,7 +166,7 @@ void parallelDataFirst ( int data_len, unsigned int* input_array, unsigned int* 
 
   timeval_subtract ( &tresult, &tb, &ta );
 
-  printf ("Serial data first took %lu seconds and %lu microseconds.  Filter length = %d\n", tresult.tv_sec, tresult.tv_usec, filter_len );
+  printf ("Parallel data first took %lu seconds and %lu microseconds.  Filter length = %d\n", tresult.tv_sec, tresult.tv_usec, filter_len );
   return;
 }
 
