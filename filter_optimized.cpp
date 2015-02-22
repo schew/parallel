@@ -164,7 +164,7 @@ int main( int argc, char** argv )
   }
 
   /* Execute at a variety of filter lengths */
-  for ( int filter_len =1; filter_len<=FILTER_LEN; filter_len*=2) 
+  for ( int filter_len =512; filter_len<=FILTER_LEN; filter_len*=2) 
 {
     parallelFilterFirst ( DATA_LEN, input_array, output_array, filter_len, filter_list );
     checkData ( serial_array, output_array );
