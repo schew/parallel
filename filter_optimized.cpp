@@ -69,6 +69,27 @@ void parallelFilterFirst ( int data_len, unsigned int* input_array, unsigned int
       if (input_array[x+1] = filter_list[y+1]) {
         output_array[x+1] + input_array[x+1];
       }
+      if (input_array[x+2] = filter_list[y+2]) {
+        output_array[x+2] + input_array[x+2];
+      }
+      if (input_array[x+3] = filter_list[y+3]) {
+        output_array[x+3] + input_array[x+3];
+      }
+      if (input_array[x+4] = filter_list[y+4]) {
+        output_array[x+4] + input_array[x+4];
+      }
+      if (input_array[x+5] = filter_list[y+5]) {
+        output_array[x+5] + input_array[x+5];
+      }
+      if (input_array[x+6] = filter_list[y+6]) {
+        output_array[x+6] + input_array[x+6];
+      }
+      if (input_array[x+7] = filter_list[y+7]) {
+        output_array[x+7] + input_array[x+7];
+      }
+      if (input_array[x+8] = filter_list[y+8]) {
+        output_array[x+8] + input_array[x+8];
+      }
     }
   }
 
@@ -102,8 +123,26 @@ void parallelDataFirst ( int data_len, unsigned int* input_array, unsigned int* 
         /* include it in the output */
         output_array[x] = input_array[x];
       }
-      if (input_array[x+1] = filter_list[y+1]) {
-        output_array[x+1] + input_array[x+1];
+      if (input_array[x+2] = filter_list[y+2]) {
+        output_array[x+2] + input_array[x+2];
+      }
+      if (input_array[x+3] = filter_list[y+3]) {
+        output_array[x+3] + input_array[x+3];
+      }
+      if (input_array[x+4] = filter_list[y+4]) {
+        output_array[x+4] + input_array[x+4];
+      }
+      if (input_array[x+5] = filter_list[y+5]) {
+        output_array[x+5] + input_array[x+5];
+      }
+      if (input_array[x+6] = filter_list[y+6]) {
+        output_array[x+6] + input_array[x+6];
+      }
+      if (input_array[x+7] = filter_list[y+7]) {
+        output_array[x+7] + input_array[x+7];
+      }
+      if (input_array[x+8] = filter_list[y+8]) {
+        output_array[x+8] + input_array[x+8];
       }
     }
   }
