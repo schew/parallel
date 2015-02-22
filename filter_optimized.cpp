@@ -119,7 +119,7 @@ void parallelFilterFirst ( int data_len, unsigned int* input_array, unsigned int
   #pragma omp parallel for
   for (int y=0; y<filter_len; y++) { 
     /* for all elements in the data */
-    for (int x=0; x<data_len; x+=2) {
+    for (int x=0; x<data_len; x+=4) {
       /* it the data element matches the filter */ 
       if (input_array[x] == filter_list[y]) {
         /* include it in the output */
@@ -127,7 +127,15 @@ void parallelFilterFirst ( int data_len, unsigned int* input_array, unsigned int
       }
       if (input_array[x+1] == filter_list[y]) {
         /* include it in the output */
-        output_array[x+1] = input_array[x+1];
+        output_array[x+1] = input_array[x+2];
+      }
+      if (input_array[x+2] == filter_list[y]) {
+        /* include it in the output */
+        output_array[x+2] = input_array[x+2];
+      }
+      if (input_array[x+3] == filter_list[y]) {
+        /* include it in the output */
+        output_array[x+3] = input_array[x+3];
       }
     }
   }
@@ -155,13 +163,21 @@ void parallelDataFirst ( int data_len, unsigned int* input_array, unsigned int* 
   #pragma omp parallel for
   for (int x=0; x<data_len; x++) {
     /* for all elements in the filter */ 
-    for (int y=0; y<filter_len; y+=2) { 
+    for (int y=0; y<filter_len; y+=4) { 
       /* it the data element matches the filter */ 
       if (input_array[x] == filter_list[y]) {
         /* include it in the output */
         output_array[x] = input_array[x];
       }
       if (input_array[x] == filter_list[y+1]) {
+        /* include it in the output */
+        output_array[x] = input_array[x];
+      }
+      if (input_array[x] == filter_list[y+2]) {
+        /* include it in the output */
+        output_array[x] = input_array[x];
+      }
+      if (input_array[x] == filter_list[y+3]) {
         /* include it in the output */
         output_array[x] = input_array[x];
       }
