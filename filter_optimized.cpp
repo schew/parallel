@@ -127,7 +127,7 @@ void parallelFilterFirst ( int data_len, unsigned int* input_array, unsigned int
       }
       if (input_array[x+1] == filter_list[y]) {
         /* include it in the output */
-        output_array[x+1] = input_array[x+2];
+        output_array[x+1] = input_array[x+1];
       }
       if (input_array[x+2] == filter_list[y]) {
         /* include it in the output */
