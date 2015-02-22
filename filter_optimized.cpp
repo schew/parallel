@@ -17,7 +17,7 @@
 #include <assert.h>
 
 /* Example filter sizes */
-#define DATA_LEN  512*512*8*4
+#define DATA_LEN  512*512*128
 #define FILTER_LEN  512
 
 
@@ -55,7 +55,7 @@ void parallelFilterFirst ( int data_len, unsigned int* input_array, unsigned int
 
   /* get initial time */
   gettimeofday ( &ta, NULL );
-  omp_set_num_threads(4);
+  omp_set_num_threads(1);
   /* for all elements in the filter */ 
   #pragma omp parallel for
   for (int y=0; y<filter_len; y+=2) { 
@@ -91,7 +91,7 @@ void parallelDataFirst ( int data_len, unsigned int* input_array, unsigned int* 
 
   /* get initial time */
   gettimeofday ( &ta, NULL );
-  omp_set_num_threads(4);
+  omp_set_num_threads(1);
   /* for all elements in the data */
   #pragma omp parallel for
   for (int x=0; x<data_len; x+=2) {
@@ -115,19 +115,6 @@ void parallelDataFirst ( int data_len, unsigned int* input_array, unsigned int* 
 
   printf ("Parallel data first took %lu seconds and %lu microseconds.  Filter length = %d\n", tresult.tv_sec, tresult.tv_usec, filter_len );
   return;
-}
-
-
-void checkData ( unsigned int * serialarray, unsigned int * parallelarray )
-{
-  for (int i=0; i<DATA_LEN; i++)
-  {
-    if (serialarray[i] != parallelarray[i])
-    {
-      printf("Data check failed offset %d\n", i );
-      return;
-    }
-  }
 }
 
 
@@ -167,11 +154,9 @@ int main( int argc, char** argv )
   for ( int filter_len =512; filter_len<=FILTER_LEN; filter_len*=2) 
 {
     parallelFilterFirst ( DATA_LEN, input_array, output_array, filter_len, filter_list );
-    checkData ( serial_array, output_array );
     memset ( output_array, 0, DATA_LEN );
 
     parallelDataFirst ( DATA_LEN, input_array, output_array, filter_len, filter_list );
-    checkData ( serial_array, output_array );
     memset ( output_array, 0, DATA_LEN );
   }
 }
