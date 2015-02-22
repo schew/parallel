@@ -17,7 +17,7 @@
 #include <assert.h>
 
 /* Example filter sizes */
-#define DATA_LEN  512*512*128
+#define DATA_LEN  512*512*8*4
 #define FILTER_LEN  512
 
 
@@ -114,7 +114,7 @@ void parallelFilterFirst ( int data_len, unsigned int* input_array, unsigned int
 
   /* get initial time */
   gettimeofday ( &ta, NULL );
-
+  omp_set_num_threads(4);
   /* for all elements in the filter */ 
   #pragma omp parallel for
   for (int y=0; y<filter_len; y++) { 
@@ -147,7 +147,7 @@ void parallelDataFirst ( int data_len, unsigned int* input_array, unsigned int* 
 
   /* get initial time */
   gettimeofday ( &ta, NULL );
-
+  omp_set_num_threads(4);
   /* for all elements in the data */
   #pragma omp parallel for
   for (int x=0; x<data_len; x++) {
