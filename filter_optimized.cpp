@@ -116,7 +116,7 @@ void parallelFilterFirst ( int data_len, unsigned int* input_array, unsigned int
   gettimeofday ( &ta, NULL );
   omp_set_num_threads(4);
   /* for all elements in the filter */ 
-  #pragma omp parallel for
+  #pragma omp parallel for collapse(2)
   for (int y=0; y<filter_len; y++) { 
     /* for all elements in the data */
     for (int x=0; x<data_len; x+=4) {
@@ -161,7 +161,7 @@ void parallelDataFirst ( int data_len, unsigned int* input_array, unsigned int* 
   gettimeofday ( &ta, NULL );
   omp_set_num_threads(4);
   /* for all elements in the data */
-  #pragma omp parallel for
+  #pragma omp parallel for collapse(2)
   for (int x=0; x<data_len; x++) {
     /* for all elements in the filter */ 
     for (int y=0; y<filter_len; y+=4) { 
