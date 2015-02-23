@@ -2,4 +2,6 @@ Stephanie Chew
 schew@jhu.edu
 schew4
 
+For the first part, finding the loop efficiency, I kept the data length size as 512*512*128 and varied the filter size from 1 to 1024. I ran filter.cpp on the g++ compiler 20 times and pushed the output into a txt file and transferred the data to an excel spreadsheet in order to perform calculations and plot the runtime. The threads, data_length, and filter_length were individually changed, recompiled using the Makefile, and run for each trial.
 
+The source folder includes a Makefile, filter.cpp, and filter_optimized.cpp, which is the optimized version of filter.
