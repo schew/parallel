@@ -3,7 +3,7 @@ FMP = -fopenmp
 CFLAGS = -c -g -fopenmp
 
 
-all: filter optimized_filter optimized_filter_notbest
+all: filter filter_optimized
 
 filter: filter.o
 	$(C++) $(FMP) -o filter filter.o
