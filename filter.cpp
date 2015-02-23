@@ -17,7 +17,7 @@
 #include <assert.h>
 
 /* Example filter sizes */
-#define DATA_LEN  512*512*8*4
+#define DATA_LEN  512*512*128
 #define FILTER_LEN  512
 
 
@@ -219,12 +219,12 @@ int main( int argc, char** argv )
   /* Execute at a variety of filter lengths */
   for ( int filter_len =1; filter_len<=FILTER_LEN; filter_len*=2) 
   {
- //   serialDataFirst ( DATA_LEN, input_array, serial_array, filter_len, filter_list );
- //   memset ( output_array, 0, DATA_LEN );
+    serialDataFirst ( DATA_LEN, input_array, serial_array, filter_len, filter_list );
+    memset ( output_array, 0, DATA_LEN );
 
- //   serialFilterFirst ( DATA_LEN, input_array, output_array, filter_len, filter_list );
- //   checkData ( serial_array, output_array );
- //   memset ( output_array, 0, DATA_LEN );
+    serialFilterFirst ( DATA_LEN, input_array, output_array, filter_len, filter_list );
+    checkData ( serial_array, output_array );
+    memset ( output_array, 0, DATA_LEN );
 
     parallelFilterFirst ( DATA_LEN, input_array, output_array, filter_len, filter_list );
     checkData ( serial_array, output_array );
