@@ -38,13 +38,15 @@ class BruteForceDES implements Runnable
     SealedObject so;
     long start;
     long interval;
+    long startTime;
 	
 	// Constructor: initialize the cipher
-	public BruteForceDES (long i, long interval, SealedObject s) 
+	public BruteForceDES (long i, long interval, SealedObject s, long rstart) 
 	{
         this.so = s;
         this.start = i;
         this.interval = interval;
+        this.startTime = rstart;
 
 		try 
 		{
@@ -58,12 +60,15 @@ class BruteForceDES implements Runnable
 	}
 
     public void run() {
-		// Search for the right key
+        // create object to printf to the console
+		PrintStream p = new PrintStream(System.out);
+		
+        // Search for the right key
 		for ( long i = start*interval; i < (start+1)*interval; i++ )
 		{
 			// Set the key and decipher the object
-			deccipher.setKey ( i );
-			String decryptstr = deccipher.decrypt ( so );
+			setKey ( i );
+			String decryptstr = decrypt ( so );
 			
 			// Does the object contain the known plaintext
 			if (( decryptstr != null ) && ( decryptstr.indexOf ( "Hopkins" ) != -1 ))
@@ -77,7 +82,7 @@ class BruteForceDES implements Runnable
 			//  Remote printlns if running for time.
 			if ( i % 100000 == 0 )
 			{ 
-				long elapsed = System.currentTimeMillis() - runstart;
+				long elapsed = System.currentTimeMillis() - startTime;
 				System.out.println ( "Searched key number " + i + " at " + elapsed + " milliseconds.");
 			}
 		}
@@ -186,7 +191,7 @@ class BruteForceDES implements Runnable
         long keybits = Long.parseLong(args[1]);
 		
 		// create object to printf to the console
-		PrintStream p = new PrintStream(System.out);
+		//PrintStream p = new PrintStream(System.out);
 
     long maxkey = ~(0L);
     maxkey = maxkey >>> (64 - keybits);
@@ -194,7 +199,7 @@ class BruteForceDES implements Runnable
         long interval = (maxkey/numThreads);
 
 		// Create a simple cipher
-		BruteForceDES enccipher = new BruteForceDES ();
+		//BruteForceDES enccipher = new BruteForceDES ();
 		
 		// Get a number between 0 and 2^64 - 1
 		Random generator = new Random ();
@@ -226,7 +231,7 @@ class BruteForceDES implements Runnable
 
         for (int i = 0; i < numThreads; i++) {
             sealedObj[i] = sldObj;
-            des[i] = new BruteForceDES(i, interval, sealedObj[i]);
+            des[i] = new BruteForceDES(i, interval, sealedObj[i], runstart);
             threads[i] = new Threads(des[i]);
             threads[i].start();
 		}
