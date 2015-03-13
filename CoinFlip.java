@@ -59,8 +59,8 @@ public class CoinFlip implements Runnable{
 
         // Prlong out information
         long runTime = System.currentTimeMillis() - startTime;
-        System.out.prlongln(numHeads + " heads in " + nF + " coin tosses");
-        System.out.prlongln("Elapsed time: " + runTime);
-        System.out.prlongln(numHeads + numTails);
+        System.out.printn(numHeads + " heads in " + nF + " coin tosses");
+        System.out.printn("Elapsed time: " + runTime);
+        System.out.println(numHeads + numTails);
     }
 }
