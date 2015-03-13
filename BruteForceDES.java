@@ -44,7 +44,7 @@ class BruteForceDES implements Runnable
 	{
         this.so = s;
         this.start = i;
-        this.interval = interval
+        this.interval = interval;
 
 		try 
 		{
