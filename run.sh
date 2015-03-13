@@ -1,64 +1,18 @@
-java CoinFlip 1 1000000000 >> Results.txt
-java CoinFlip 1 1000000000 >> Results.txt
-java CoinFlip 1 1000000000 >> Results.txt
-java CoinFlip 1 1000000000 >> Results.txt
-java CoinFlip 2 1000000000 >> Results.txt
-java CoinFlip 2 1000000000 >> Results.txt
-java CoinFlip 2 1000000000 >> Results.txt
-java CoinFlip 2 1000000000 >> Results.txt
-java CoinFlip 3 1000000000 >> Results.txt
-java CoinFlip 3 1000000000 >> Results.txt
-java CoinFlip 3 1000000000 >> Results.txt
-java CoinFlip 3 1000000000 >> Results.txt
-java CoinFlip 4 1000000000 >> Results.txt
-java CoinFlip 4 1000000000 >> Results.txt
-java CoinFlip 4 1000000000 >> Results.txt
-java CoinFlip 4 1000000000 >> Results.txt
-java CoinFlip 5 1000000000 >> Results.txt
-java CoinFlip 5 1000000000 >> Results.txt
-java CoinFlip 5 1000000000 >> Results.txt
-java CoinFlip 5 1000000000 >> Results.txt
-java CoinFlip 6 1000000000 >> Results.txt
-java CoinFlip 6 1000000000 >> Results.txt
-java CoinFlip 6 1000000000 >> Results.txt
-java CoinFlip 6 1000000000 >> Results.txt
-java CoinFlip 7 1000000000 >> Results.txt
-java CoinFlip 7 1000000000 >> Results.txt
-java CoinFlip 7 1000000000 >> Results.txt
-java CoinFlip 7 1000000000 >> Results.txt
-java CoinFlip 8 1000000000 >> Results.txt
-java CoinFlip 8 1000000000 >> Results.txt
-java CoinFlip 8 1000000000 >> Results.txt
-java CoinFlip 8 1000000000 >> Results.txt
-java CoinFlip 9 1000000000 >> Results.txt
-java CoinFlip 9 1000000000 >> Results.txt
-java CoinFlip 9 1000000000 >> Results.txt
-java CoinFlip 9 1000000000 >> Results.txt
-java CoinFlip 10 1000000000 >> Results.txt
-java CoinFlip 10 1000000000 >> Results.txt
-java CoinFlip 10 1000000000 >> Results.txt
-java CoinFlip 10 1000000000 >> Results.txt
-java CoinFlip 11 1000000000 >> Results.txt
-java CoinFlip 11 1000000000 >> Results.txt
-java CoinFlip 11 1000000000 >> Results.txt
-java CoinFlip 11 1000000000 >> Results.txt
-java CoinFlip 12 1000000000 >> Results.txt
-java CoinFlip 12 1000000000 >> Results.txt
-java CoinFlip 12 1000000000 >> Results.txt
-java CoinFlip 12 1000000000 >> Results.txt
-java CoinFlip 13 1000000000 >> Results.txt
-java CoinFlip 13 1000000000 >> Results.txt
-java CoinFlip 13 1000000000 >> Results.txt
-java CoinFlip 13 1000000000 >> Results.txt
-java CoinFlip 14 1000000000 >> Results.txt
-java CoinFlip 14 1000000000 >> Results.txt
-java CoinFlip 14 1000000000 >> Results.txt
-java CoinFlip 14 1000000000 >> Results.txt
-java CoinFlip 15 1000000000 >> Results.txt
-java CoinFlip 15 1000000000 >> Results.txt
-java CoinFlip 15 1000000000 >> Results.txt
-java CoinFlip 15 1000000000 >> Results.txt
-java CoinFlip 16 1000000000 >> Results.txt
-java CoinFlip 16 1000000000 >> Results.txt
-java CoinFlip 16 1000000000 >> Results.txt
-java CoinFlip 16 1000000000 >> Results.txt
+    for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+    do
+        java CoinFlip i 1000000000 >> Results2.txt
+        java CoinFlip i 1000000000 >> Results2.txt
+        java CoinFlip i 1000000000 >> Results2.txt
+        java CoinFlip i 2000000000 >> Results2.txt
+        java CoinFlip i 2000000000 >> Results2.txt
+        java CoinFlip i 2000000000 >> Results2.txt
+        java CoinFlip i 4000000000 >> Results2.txt
+        java CoinFlip i 4000000000 >> Results2.txt
+        java CoinFlip i 4000000000 >> Results2.txt
+        java CoinFlip i 8000000000 >> Results2.txt
+        java CoinFlip i 8000000000 >> Results2.txt
+        java CoinFlip i 8000000000 >> Results2.txt
+        java CoinFlip i 16000000000 >> Results2.txt
+        java CoinFlip i 16000000000 >> Results2.txt
+        java CoinFlip i 16000000000 >> Results2.txt
+    done
