@@ -226,13 +226,13 @@ class BruteForceDES implements Runnable
 
         for (int i = 0; i < numThreads; i++) {
             sealedObj[i] = sldObj;
-            des[i] = new BruteForceDES(sealedObj[i]);
-            threads[i] = new Threads(i, interval, des[i]);
+            des[i] = new BruteForceDES(i, interval, sealedObj[i]);
+            threads[i] = new Threads(des[i]);
             threads[i].start();
 		}
 		
         // Join threads
-        for (int i = 0; i < nT; i++) {
+        for (int i = 0; i < numThreads; i++) {
             try {
                 threads[i].join();
             } catch (InterruptedException e) {
