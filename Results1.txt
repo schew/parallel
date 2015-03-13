@@ -1,288 +1,1104 @@
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 1
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 1
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 1
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 1
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 1
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 1
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 1
-0
-0 heads in 1000000000 coin tosses
-Elapsed time: 0
-0
-500006990 heads in 1000000000 coin tosses
-Elapsed time: 2122
-999999993
-500005306 heads in 1000000000 coin tosses
-Elapsed time: 2012
-999999993
-499997410 heads in 1000000000 coin tosses
-Elapsed time: 2130
-999999993
-500012984 heads in 1000000000 coin tosses
-Elapsed time: 2064
-999999990
-499979556 heads in 1000000000 coin tosses
-Elapsed time: 2082
-999999990
-499980508 heads in 1000000000 coin tosses
-Elapsed time: 2083
-999999990
-499992781 heads in 1000000000 coin tosses
-Elapsed time: 2072
-999999982
-500023968 heads in 1000000000 coin tosses
-Elapsed time: 2068
-999999982
-499985149 heads in 1000000000 coin tosses
-Elapsed time: 2033
-999999982
-500010194 heads in 1000000000 coin tosses
-Elapsed time: 2031
-1000000000
-500008045 heads in 1000000000 coin tosses
-Elapsed time: 2045
-1000000000
-500002855 heads in 1000000000 coin tosses
-Elapsed time: 2083
-1000000000
-499989768 heads in 1000000000 coin tosses
+0 flippers
+run 499986568
+358 heads in 1000000000 coin tosses
+Elapsed time: 21511
+727
+0 flippers
+run 500024677
+320 heads in 1000000000 coin tosses
+Elapsed time: 21511
+654
+0 flippers
+run 499990571
+341 heads in 1000000000 coin tosses
+Elapsed time: 21510
+686
+0 flippers
+run 250000209
+249798350 flippers
+run 249975614
+249799778 heads in 1000000000 coin tosses
+Elapsed time: 11218
+499648617
+0 flippers
+run 250010100
+249972012 flippers
+run 249997006
+249973409 heads in 1000000000 coin tosses
+Elapsed time: 11210
+499952943
+0 flippers
+run 249979177
+run 249987590
+249979177 flippers
+249979508 heads in 1000000000 coin tosses
+Elapsed time: 11212
+500000678
+43 flippers
+run 166679494
+run 166664368
+166664859 flippers
+run 166677743
+166679494 flippers
+333345865 heads in 1000000000 coin tosses
+Elapsed time: 7481
+666643947
+57 flippers
+run 166661652
+run 166659454
+166646010 flippers
+run 166654667
+166659454 flippers
+333307119 heads in 1000000000 coin tosses
+Elapsed time: 7481
+666652915
+51 flippers
+run 166664813
+run 166661798
+166664813 flippers
+166668628 flippers
+run 166675334
+333334671 heads in 1000000000 coin tosses
+Elapsed time: 7479
+666655744
+475 flippers
+run 125013664
+run 125004161
+124985596 flippers
+run 125003776
+124990353 flippers
+run 124997831
+125004161 flippers
+374982551 heads in 1000000000 coin tosses
+Elapsed time: 5614
+749953550
+531 flippers
+run 125005539
+124927831 flippers
+run 125008435
+run 125007136
+125008435 flippers
+124960919 flippers
+run 124988407
+374899311 heads in 1000000000 coin tosses
+Elapsed time: 5755
+749790134
+502 flippers
+run 124987812
+124993156 flippers
+run 124995941
+125001346 flippers
+run 125006688
+124997873 flippers
+run 124999334
+374995525 heads in 1000000000 coin tosses
+Elapsed time: 5615
+749987131
+951 flippers
+run 100006607
+run 99986733
+run 99996186
+run 99989094
+run 100009196
+100006607 flippers
+99996186 flippers
+99986733 flippers
+99989094 flippers
+399979807 heads in 1000000000 coin tosses
+Elapsed time: 4614
+800002423
+790 flippers
+run 99996603
+run 99993652
+run 100015077
+run 99991262
+run 99995863
+99996603 flippers
+100015077 flippers
+99995863 flippers
+99993652 flippers
+400002210 heads in 1000000000 coin tosses
+Elapsed time: 4614
+800002058
+829 flippers
+run 100000074
+run 100000549
+run 99997908
+99997908 flippers
+99990621 flippers
+run 100006390
+run 100001570
+100006390 flippers
+100000074 flippers
+399996895 heads in 1000000000 coin tosses
+Elapsed time: 4615
+799981710
+987 flippers
+run 83340157
+run 83331488
+run 83332084
+run 83336103
+run 83341451
+83340157 flippers
+83331488 flippers
+83330975 flippers
+run 83337017
+83332084 flippers
+83336103 flippers
+416672518 heads in 1000000000 coin tosses
+Elapsed time: 3849
+833324501
+795 flippers
+run 83324585
+run 83317966
+83307291 flippers
+run 83336375
+run 83337181
+run 83329864
+run 83322078
+83329864 flippers
+83324585 flippers
+83337181 flippers
+83336375 flippers
+416637175 heads in 1000000000 coin tosses
+Elapsed time: 3849
+833307517
+860 flippers
+run 83345050
+run 83334120
+run 83336232
+83334120 flippers
+83328478 flippers
+run 83338780
+run 83339967
+83345050 flippers
+run 83324581
+83338780 flippers
+83324581 flippers
+416672633 heads in 1000000000 coin tosses
+Elapsed time: 3849
+833313434
+822 flippers
+run 71429777
+run 71426197
+run 71432391
+run 71427217
+run 71428734
+run 71432980
+71432980 flippers
+71427217 flippers
+71432391 flippers
+71423456 flippers
+run 71424951
+71429777 flippers
+71426197 flippers
+428573608 heads in 1000000000 coin tosses
+Elapsed time: 3304
+857143047
+852 flippers
+run 71429461
+run 71424145
+run 71425170
+run 71425627
+71418422 flippers
+run 71438107
+run 71436099
+run 71426582
+71438107 flippers
+71424145 flippers
+71436099 flippers
+71429461 flippers
+71425170 flippers
+428573418 heads in 1000000000 coin tosses
+Elapsed time: 3303
+857130523
+1672 flippers
+run 71423847
+run 71430122
+run 71430806
+run 71431020
+71423847 flippers
+run 71419789
+71430122 flippers
+71419789 flippers
+60204830 flippers
+run 71429337
+71430806 flippers
+71250516 flippers
+run 71432565
+417163024 heads in 1000000000 coin tosses
+Elapsed time: 3833
+834333596
+1212 flippers
+run 62494829
+62483425 flippers
+run 62503592
+run 62500280
+run 62508436
+62493525 flippers
+run 62503308
+62503592 flippers
+62504811 flippers
+run 62506473
+62500280 flippers
+50344186 flippers
+run 62494996
+run 62508524
+62494996 flippers
+425329984 heads in 1000000000 coin tosses
+Elapsed time: 3444
+850614468
+985 flippers
+run 62496479
+run 62494565
+run 62505495
+run 62501280
+run 62499190
+run 62503277
+run 62507354
+run 62495791
+62505495 flippers
+62503277 flippers
+62496479 flippers
+62499190 flippers
+62507354 flippers
+62494565 flippers
+62501280 flippers
+437509003 heads in 1000000000 coin tosses
+Elapsed time: 3558
+875002678
+1069 flippers
+run 62502327
+run 62498228
+run 62498347
+run 62497912
+run 62508669
+62502327 flippers
+47757625 flippers
+run 62505030
+run 62497985
+run 62495642
+62505030 flippers
+62508669 flippers
+62498228 flippers
+62498347 flippers
+62497985 flippers
+422773474 heads in 1000000000 coin tosses
+Elapsed time: 3766
+845526279
+1104 flippers
+run 55557723
+run 55549942
+run 55545234
+run 55562643
+run 55552837
+55548117 flippers
+run 55552835
+42465703 flippers
+run 55551776
+run 55550965
+run 55548183
+55562643 flippers
+55545234 flippers
+55550965 flippers
+55557723 flippers
+55551776 flippers
+55549942 flippers
+431334763 heads in 1000000000 coin tosses
+Elapsed time: 3351
+862714160
+1150 flippers
+run 55559368
+run 55551661
+55537809 flippers
+run 55554632
+run 55551377
+55554632 flippers
+55559368 flippers
+42629609 flippers
+run 55561979
+run 55553874
+run 55550588
+run 55562439
+run 55556194
+55562439 flippers
+55553874 flippers
+55561979 flippers
+55550588 flippers
+431513318 heads in 1000000000 coin tosses
+Elapsed time: 3335
+863014812
+1506 flippers
+run 55551213
+run 55553004
+run 55545266
+run 55556065
+run 55553026
+run 55556744
+55545266 flippers
+55553026 flippers
+55556065 flippers
+53048651 flippers
+run 55550756
+run 55560497
+55550756 flippers
+55553004 flippers
+55288898 flippers
+run 55553230
+55551213 flippers
+441649428 heads in 1000000000 coin tosses
+Elapsed time: 3352
+883348327
+1171 flippers
+run 49999674
+run 49999207
+run 50000482
+run 50003411
+44773202 flippers
+run 49999370
+49921269 flippers
+run 50004238
+42853989 flippers
+run 49995853
+run 49988688
+run 50001264
+49995853 flippers
+49999674 flippers
+49988688 flippers
+49999207 flippers
+49939579 flippers
+run 49996627
+50000482 flippers
+437475800 heads in 1000000000 coin tosses
+Elapsed time: 2928
+874977141
+1255 flippers
+run 49983408
+run 49990363
+39288446 flippers
+run 50001723
+run 49999601
+run 49998359
+49655524 flippers
+run 50001857
+run 49996971
+49574661 flippers
+run 50002742
+49999601 flippers
+50001723 flippers
+47347688 flippers
+run 49998477
+run 50006291
+50001857 flippers
+49983408 flippers
+49998477 flippers
+435855811 heads in 1000000000 coin tosses
+Elapsed time: 3003
+871730424
+1592 flippers
+run 49997866
+run 50004079
+run 50001443
+run 49997107
+run 50001167
+49982291 flippers
+run 49997632
+38216991 flippers
+run 50008148
+run 50004588
+run 49997532
+run 50001594
+50001443 flippers
+49997532 flippers
+50004079 flippers
+50004588 flippers
+49997866 flippers
+50001167 flippers
+50008148 flippers
+438217856 heads in 1000000000 coin tosses
+Elapsed time: 3024
+876408715
+1410 flippers
+run 45450680
+run 45462398
+run 45451351
+run 45446545
+run 45456115
+40710453 flippers
+run 45454187
+41971150 flippers
+run 45448508
+run 45457990
+run 45456131
+43765927 flippers
+run 45455006
+44743326 flippers
+run 45459694
+45446545 flippers
+45451351 flippers
+45448508 flippers
+45462398 flippers
+45450680 flippers
+45457990 flippers
+443912547 heads in 1000000000 coin tosses
+Elapsed time: 2744
+887827980
+1699 flippers
+run 45455490
+41442714 flippers
+run 45453981
+run 45453951
+run 45454396
+44700487 flippers
+run 45462339
+run 45453556
+45453981 flippers
+45462339 flippers
+39655956 flippers
+run 45466499
+run 45456328
+run 45453774
+run 45451895
+run 45456267
+45466499 flippers
+45451895 flippers
+45453951 flippers
+45456328 flippers
+45453774 flippers
+444002064 heads in 1000000000 coin tosses
+Elapsed time: 2734
+887967368
+2300 flippers
+run 45453566
+run 45451652
+run 45454351
+run 45449053
+run 45450613
+45453566 flippers
+34898353 flippers
+run 45457197
+run 45448175
+45330873 flippers
+run 45449321
+44073827 flippers
+run 45459654
+run 45452114
+run 45451276
+45451652 flippers
+45454351 flippers
+45459654 flippers
+45457197 flippers
+45449053 flippers
+45452114 flippers
+442484715 heads in 1000000000 coin tosses
+Elapsed time: 2750
+885007529
+2158 flippers
+run 41672175
+run 41675614
+run 41663289
+41672175 flippers
+31996435 flippers
+run 41665650
+run 41665939
+run 41666500
+run 41665939
+41675614 flippers
+41473800 flippers
+run 41666613
+run 41666891
+run 41670357
+run 41669457
+41665939 flippers
+41670357 flippers
+41666613 flippers
+41665650 flippers
+run 41670893
+41665939 flippers
+41669457 flippers
+41670893 flippers
+448496246 heads in 1000000000 coin tosses
+Elapsed time: 2528
+896952690
+1743 flippers
+run 41668750
+run 41665085
+run 41671859
+run 41667800
+41668750 flippers
+36013784 flippers
+run 41670256
+run 41661313
+run 41662934
+run 41668866
+run 41663578
+run 41656841
+run 41669398
+run 41665635
+41671859 flippers
+41669398 flippers
+41663578 flippers
+41670256 flippers
+41661313 flippers
+41662934 flippers
+41665085 flippers
+41656841 flippers
+41668866 flippers
+452675149 heads in 1000000000 coin tosses
+Elapsed time: 2514
+905368220
+2259 flippers
+run 41667336
+run 41665216
+run 41667099
+41667336 flippers
+41665216 flippers
+31832838 flippers
+run 41668219
+run 41667572
+run 41663335
+run 41658220
+run 41667698
+run 41671821
+run 41670599
+41671821 flippers
+41630248 flippers
+run 41662727
+run 41668525
+41662727 flippers
+41668219 flippers
+41667698 flippers
+41667572 flippers
+41663335 flippers
+41658220 flippers
+448458730 heads in 1000000000 coin tosses
+Elapsed time: 2529
+896921373
+2108 flippers
+run 38468220
+35544953 flippers
+run 38456790
+31619995 flippers
+run 38463055
+run 38467234
+run 38468179
+run 38451958
+run 38461582
+run 38451877
+run 38465955
+run 38459711
+run 38456078
+run 38463387
+run 38467001
+38463387 flippers
+38463055 flippers
+38456078 flippers
+38461582 flippers
+38451877 flippers
+38467234 flippers
+38451958 flippers
+38459711 flippers
+38468179 flippers
+38465955 flippers
+451777995 heads in 1000000000 coin tosses
+Elapsed time: 2337
+903567833
+1718 flippers
+run 38461052
+run 38466099
+run 38459811
+run 38460741
+run 38462284
+run 38463031
+run 38464534
+run 38459551
+run 38456580
+run 38468681
+38459811 flippers
+38460741 flippers
+38462284 flippers
+38466099 flippers
+38456580 flippers
+38459551 flippers
+38075470 flippers
+run 38464568
+38464534 flippers
+38461052 flippers
+38437512 flippers
+run 38460079
+38463031 flippers
+38356965 flippers
+run 38462353
+461027044 heads in 1000000000 coin tosses
+Elapsed time: 2326
+922049684
+1922 flippers
+run 38456222
+run 38461435
+run 38459188
+run 38455642
+run 38464286
+run 38451649
+38456222 flippers
+38291564 flippers
+run 38462399
+run 38462755
+run 38471470
+run 38462451
+run 38458625
+38462451 flippers
+38471470 flippers
+38431668 flippers
+run 38465633
+38462755 flippers
+38455642 flippers
+38461435 flippers
+38459188 flippers
+38464286 flippers
+38462399 flippers
+38432408 flippers
+run 38455129
+461315528 heads in 1000000000 coin tosses
+Elapsed time: 2329
+922637319
+8325 flippers
+run 35708925
+run 35711100
+run 35712218
+run 35710363
+run 35713486
+run 35716405
+run 35716480
+run 35713764
+run 35717795
+35710363 flippers
+35713486 flippers
+35640075 flippers
+run 35710136
+run 35715868
+35710136 flippers
+35708925 flippers
+35711100 flippers
+35712218 flippers
+35716480 flippers
+35716405 flippers
+35557313 flippers
+run 35719369
+run 35719252
+35719369 flippers
+35693744 flippers
+run 35709642
+35713764 flippers
+464033672 heads in 1000000000 coin tosses
+Elapsed time: 2157
+928084767
+2647 flippers
+run 35713604
+run 35711591
+27312875 flippers
+run 35715661
+run 35713158
+run 35728508
+run 35713799
+run 35717490
+run 35722210
+run 35725808
+35722210 flippers
+35706297 flippers
+run 35711637
+run 35708706
+35716084 flippers
+run 35716166
+35711637 flippers
+35663019 flippers
+run 35718065
+run 35711121
+35713604 flippers
+35718065 flippers
+35713158 flippers
+35728508 flippers
+35713799 flippers
+35717490 flippers
+35715661 flippers
+455857188 heads in 1000000000 coin tosses
+Elapsed time: 2170
+911660358
+7088 flippers
+run 35713172
+run 35718006
+run 35707995
+run 35717352
+run 35720167
+run 35712934
+run 35718146
+run 35716475
+run 35712547
+run 35716909
+run 35711518
+run 35708146
+35716909 flippers
+35712547 flippers
+35718146 flippers
+35716475 flippers
+35713172 flippers
+35718006 flippers
+35717352 flippers
+35621238 flippers
+run 35713958
+run 35722835
+35713958 flippers
+35707995 flippers
+35720167 flippers
+35712934 flippers
+35711518 flippers
+464208859 heads in 1000000000 coin tosses
+Elapsed time: 2159
+928385640
+80197 flippers
+run 33327865
+run 33335074
+run 33340971
+run 33334934
+run 33330256
+run 33334235
+run 33335015
+run 33336389
+run 33333714
+run 33331836
+run 33334634
+run 33329657
+run 33341501
+run 33329915
+33331836 flippers
+33334634 flippers
+33333714 flippers
+33336389 flippers
+33334235 flippers
+33329657 flippers
+33334934 flippers
+33335015 flippers
+33327865 flippers
+33340971 flippers
+33335074 flippers
+33330256 flippers
+33341501 flippers
+32961217 flippers
+run 33337039
+466406237 heads in 1000000000 coin tosses
+Elapsed time: 2065
+932779995
+1614 flippers
+run 33335930
+run 33334985
+31405420 flippers
+run 33336043
+run 33332772
+run 33337165
+run 33332796
+run 33330354
+run 33331714
+run 33333985
+run 33333198
+run 33334705
+run 33340712
+33332734 flippers
+run 33332851
+33334705 flippers
+33332772 flippers
+33326747 flippers
+run 33339350
+33167181 flippers
+run 33332957
+33335930 flippers
+33333985 flippers
+33332796 flippers
+33330354 flippers
+33337165 flippers
+33333198 flippers
+33331714 flippers
+33336043 flippers
+464574651 heads in 1000000000 coin tosses
 Elapsed time: 2036
-999999987
-500006961 heads in 1000000000 coin tosses
-Elapsed time: 2127
-999999987
-499992541 heads in 1000000000 coin tosses
-Elapsed time: 2004
-999999987
-499995465 heads in 1000000000 coin tosses
-Elapsed time: 2067
-999999990
-500009831 heads in 1000000000 coin tosses
-Elapsed time: 2000
-999999990
-500003429 heads in 1000000000 coin tosses
-Elapsed time: 2020
-999999990
-500020172 heads in 1000000000 coin tosses
-Elapsed time: 1996
-999999980
-500014176 heads in 1000000000 coin tosses
-Elapsed time: 2032
-999999980
-500000840 heads in 1000000000 coin tosses
-Elapsed time: 2020
-999999980
-499999122 heads in 1000000000 coin tosses
-Elapsed time: 2060
-999999984
-499970398 heads in 1000000000 coin tosses
-Elapsed time: 2043
-999999984
-500014913 heads in 1000000000 coin tosses
-Elapsed time: 2058
-999999984
-499973667 heads in 1000000000 coin tosses
-Elapsed time: 1977
+929115428
+33394 flippers
+run 33331353
+25675580 flippers
+run 33334718
+33175569 flippers
+run 33336337
+run 33327982
+run 33332301
+33184517 flippers
+run 33333343
+run 33326601
+run 33327979
+33327982 flippers
+33113203 flippers
+run 33332957
+run 33333948
+run 33334794
+run 33330596
+run 33335656
+33293846 flippers
+run 33326315
+run 33327076
+33332957 flippers
+33330596 flippers
+33334794 flippers
+33333343 flippers
+33333948 flippers
+33326601 flippers
+33327076 flippers
+33336337 flippers
+458486348 heads in 1000000000 coin tosses
+Elapsed time: 2018
+917028063
+9772 flippers
+run 31243720
+run 31251709
+run 31246722
+run 31258977
+run 31245499
+run 31252995
+run 31253710
+run 31243164
+run 31254973
+run 31254777
+run 31248700
+run 31246486
+run 31254164
+run 31248969
+run 31248774
+31246486 flippers
+31243164 flippers
+31246722 flippers
+31254777 flippers
+31243720 flippers
+31253710 flippers
+31251709 flippers
+31258977 flippers
+31248969 flippers
+31185770 flippers
+run 31247159
+31248700 flippers
+31254164 flippers
+31252995 flippers
+31245499 flippers
+31254973 flippers
+468722895 heads in 1000000000 coin tosses
+Elapsed time: 1909
+937442684
+523168 flippers
+run 31251649
+31076499 flippers
+run 31253031
+run 31249641
+run 31246343
+run 31252300
+run 31251005
+run 31255314
+run 31250549
+run 31253325
+run 31250121
+31253031 flippers
+31249641 flippers
+31250549 flippers
+31253325 flippers
+31245662 flippers
+run 31248399
+31021461 flippers
+run 31250299
+run 31253358
+run 31245438
+run 31249065
+31246343 flippers
+31253358 flippers
+31252300 flippers
+31245438 flippers
+31255314 flippers
+31250299 flippers
+31251005 flippers
+31070825 flippers
+run 31249761
+468723651 heads in 1000000000 coin tosses
+Elapsed time: 1909
+937433369
+631252 flippers
+run 31246731
+run 31252321
+run 31260066
+31240759 flippers
+run 31250834
+31048632 flippers
+run 31248929
+run 31253044
+run 31251554
+run 31245270
+run 31251568
+run 31245948
+31246731 flippers
+31253044 flippers
+31251554 flippers
+31166572 flippers
+run 31255468
+run 31244108
+31252321 flippers
+31248929 flippers
+31245270 flippers
+31251568 flippers
+31225281 flippers
+run 31246994
+31160529 flippers
+run 31245576
+31255468 flippers
+31249769 flippers
+run 31254444
+31227632 flippers
+run 31248996
+468977957 heads in 1000000000 coin tosses
+Elapsed time: 1904
+937972300
+500010923 heads in 1000000000 coin tosses
+Elapsed time: 21498
 1000000000
-499985615 heads in 1000000000 coin tosses
-Elapsed time: 2054
+500016508 heads in 1000000000 coin tosses
+Elapsed time: 21500
 1000000000
-500018653 heads in 1000000000 coin tosses
-Elapsed time: 2064
+500007074 heads in 1000000000 coin tosses
+Elapsed time: 21496
 1000000000
-499981550 heads in 1000000000 coin tosses
-Elapsed time: 2030
-999999988
-500014738 heads in 1000000000 coin tosses
-Elapsed time: 2011
-999999988
-499983971 heads in 1000000000 coin tosses
-Elapsed time: 2004
-999999988
-499995180 heads in 1000000000 coin tosses
-Elapsed time: 1981
+499988622 heads in 1000000000 coin tosses
+Elapsed time: 11192
+1000000000
+499984674 heads in 1000000000 coin tosses
+Elapsed time: 11191
+1000000000
+500025123 heads in 1000000000 coin tosses
+Elapsed time: 11192
+1000000000
+500005825 heads in 1000000000 coin tosses
+Elapsed time: 7665
 999999999
-500005804 heads in 1000000000 coin tosses
-Elapsed time: 1987
+500002107 heads in 1000000000 coin tosses
+Elapsed time: 7656
 999999999
-499975486 heads in 1000000000 coin tosses
-Elapsed time: 2024
+499999092 heads in 1000000000 coin tosses
+Elapsed time: 7667
 999999999
-500000200 heads in 1000000000 coin tosses
+500029106 heads in 1000000000 coin tosses
+Elapsed time: 5605
+1000000000
+499978493 heads in 1000000000 coin tosses
+Elapsed time: 5764
+1000000000
+499991251 heads in 1000000000 coin tosses
+Elapsed time: 5761
+1000000000
+499981819 heads in 1000000000 coin tosses
+Elapsed time: 4622
+1000000000
+499987218 heads in 1000000000 coin tosses
+Elapsed time: 4487
+1000000000
+499988679 heads in 1000000000 coin tosses
+Elapsed time: 4621
+1000000000
+500001816 heads in 1000000000 coin tosses
+Elapsed time: 3854
+999999996
+500011908 heads in 1000000000 coin tosses
+Elapsed time: 3856
+999999996
+500026298 heads in 1000000000 coin tosses
+Elapsed time: 3853
+999999996
+500025513 heads in 1000000000 coin tosses
+Elapsed time: 3307
+999999994
+500006065 heads in 1000000000 coin tosses
+Elapsed time: 3306
+999999994
+499991276 heads in 1000000000 coin tosses
+Elapsed time: 3306
+999999994
+499996931 heads in 1000000000 coin tosses
+Elapsed time: 2874
+1000000000
+499986552 heads in 1000000000 coin tosses
+Elapsed time: 2878
+1000000000
+500001476 heads in 1000000000 coin tosses
+Elapsed time: 3762
+1000000000
+499985941 heads in 1000000000 coin tosses
+Elapsed time: 3347
+999999999
+500012202 heads in 1000000000 coin tosses
+Elapsed time: 3349
+999999999
+500003730 heads in 1000000000 coin tosses
+Elapsed time: 3335
+999999999
+499980536 heads in 1000000000 coin tosses
+Elapsed time: 3001
+1000000000
+499976722 heads in 1000000000 coin tosses
+Elapsed time: 2998
+1000000000
+499974054 heads in 1000000000 coin tosses
+Elapsed time: 3000
+1000000000
+499995179 heads in 1000000000 coin tosses
+Elapsed time: 2746
+999999990
+499994881 heads in 1000000000 coin tosses
+Elapsed time: 2735
+999999990
+499984761 heads in 1000000000 coin tosses
+Elapsed time: 2631
+999999990
+499983776 heads in 1000000000 coin tosses
+Elapsed time: 2523
+999999996
+499994792 heads in 1000000000 coin tosses
+Elapsed time: 2520
+999999996
+500002365 heads in 1000000000 coin tosses
+Elapsed time: 2497
+999999996
+500005838 heads in 1000000000 coin tosses
+Elapsed time: 2329
+999999988
+500000740 heads in 1000000000 coin tosses
+Elapsed time: 2320
+999999988
+499994913 heads in 1000000000 coin tosses
+Elapsed time: 2328
+999999988
+499999568 heads in 1000000000 coin tosses
+Elapsed time: 2154
+999999994
+500009076 heads in 1000000000 coin tosses
+Elapsed time: 2171
+999999994
+500003537 heads in 1000000000 coin tosses
+Elapsed time: 2164
+999999994
+499984178 heads in 1000000000 coin tosses
 Elapsed time: 2053
-999999980
-500013621 heads in 1000000000 coin tosses
-Elapsed time: 2014
-999999980
-499979040 heads in 1000000000 coin tosses
-Elapsed time: 1987
-999999980
-499977107 heads in 1000000000 coin tosses
-Elapsed time: 1970
-999999982
-499982259 heads in 1000000000 coin tosses
-Elapsed time: 1996
-999999982
-499995475 heads in 1000000000 coin tosses
+999999990
+500015870 heads in 1000000000 coin tosses
 Elapsed time: 2024
-999999982
-500015441 heads in 1000000000 coin tosses
-Elapsed time: 1999
 999999990
-499993326 heads in 1000000000 coin tosses
-Elapsed time: 1992
+499997654 heads in 1000000000 coin tosses
+Elapsed time: 2022
 999999990
-500000695 heads in 1000000000 coin tosses
-Elapsed time: 1991
-999999990
-500014711 heads in 1000000000 coin tosses
-Elapsed time: 1985
-999999984
-500000747 heads in 1000000000 coin tosses
-Elapsed time: 1984
-999999984
-499994948 heads in 1000000000 coin tosses
-Elapsed time: 1962
-999999984
-499988752 heads in 1000000000 coin tosses
-Elapsed time: 1986
+499983419 heads in 1000000000 coin tosses
+Elapsed time: 1925
 1000000000
-500017140 heads in 1000000000 coin tosses
-Elapsed time: 1980
+499989930 heads in 1000000000 coin tosses
+Elapsed time: 1909
 1000000000
-500032031 heads in 1000000000 coin tosses
-Elapsed time: 1966
+500003464 heads in 1000000000 coin tosses
+Elapsed time: 1914
 1000000000
