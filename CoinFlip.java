@@ -2,15 +2,17 @@
 import java.util.concurrent.ThreadLocalRandom;
 
 public class CoinFlip implements Runnable{
-    long headCount;
+    private long headCount;
     long numThreads;
     long numFlips;
-    long tailCount;
+    private long tailCount;
 
     // Constructor for Flip
     public CoinFlip(long nT, long nF) {
         this.numThreads = nT;
         this.numFlips = nF;
+        this.headCount = 0;
+        this.tailCount = 0;
     }
 
     public long getHeads() {
@@ -18,24 +20,21 @@ public class CoinFlip implements Runnable{
     }
 
     public long getTails() {
-        return tailCount;
+        return this.tailCount;
     }
 
     public void run() {
-        headCount = 0;
-        tailCount = 0;
         for (long i = 0; i < numFlips/numThreads; i++) {
             if (ThreadLocalRandom.current().nextInt(2) == 1) {
-                ++headCount;
+                ++this.headCount;
             } else {
-                ++tailCount;
+                ++this.tailCount;
             }
         }
-System.out.println("run " + headCount);
     }
 
     public static void main (String[] args) {
-//        long startTime = System.currentTimeMillis();
+        //long startTime = System.currentTimeMillis();
         // Error if user doesn't put in the right arguments
         if (args.length != 2) {
             System.out.println("Usage: CoinFlip #threads #iterations");
@@ -62,10 +61,9 @@ System.out.println("run " + headCount);
         // Join threads
         for (int i = 0; i < nT; i++) {
             try {
-System.out.println(flippers[i].getHeads() + " flippers");
-                numHeads += flippers[i].getHeads();
-                numTails += flippers[i].getTails();
                 threads[i].join();
+                numTails += flippers[i].getTails();
+                numHeads += flippers[i].getHeads();
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
