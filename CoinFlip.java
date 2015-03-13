@@ -17,7 +17,7 @@ public class CoinFlip implements Runnable{
         long headCount = 0;
         long tailCount = 0;
         for (long i = 0; i < numFlips/numThreads; i++) {
-            if (ThreadLocalRandom.current().nextlong(2) == 1) {
+            if (ThreadLocalRandom.current().nextInt(2) == 1) {
                 ++headCount;
             } else {
                 ++tailCount;
@@ -32,28 +32,28 @@ public class CoinFlip implements Runnable{
     public static void main (String[] args) {
         // Error if user doesn't put in the right arguments
         if (args.length != 2) {
-            System.out.prlongln("Usage: CoinFlip #threads #iterations");
+            System.out.println("Usage: CoinFlip #threads #iterations");
             return;
         }
         long nT = Long.parseLong(args[0]);
         long nF = Long.parseLong(args[1]);
 
         // Create array of threads and start timer
-        Thread[] threads = new Thread[nT];
+        Thread[] threads = new Thread[(int)nT];
         long startTime = System.currentTimeMillis();
         
         // Start threads
-        for (long i = 0; i < nT; i++) {
+        for (int i = 0; i < nT; i++) {
             threads[i] = new Thread(new CoinFlip(nT, nF));
             threads[i].start();
         }
 
         // Join threads
-        for (long i = 0; i < nT; i++) {
+        for (int i = 0; i < nT; i++) {
             try {
                 threads[i].join();
-            } catch (longerruptedException e) {
-                e.prlongStackTrace();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
             }
         }
 
