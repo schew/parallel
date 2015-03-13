@@ -199,7 +199,7 @@ class BruteForceDES implements Runnable
         long interval = (maxkey/numThreads);
 
 		// Create a simple cipher
-		//BruteForceDES enccipher = new BruteForceDES ();
+		SealedDES enccipher = new SealedDES ();
 		
 		// Get a number between 0 and 2^64 - 1
 		Random generator = new Random ();
@@ -226,13 +226,13 @@ class BruteForceDES implements Runnable
 
         // Create array of threads and start timer
         Thread[] threads = new Thread[numThreads];
-        BruteForceDES[] des = new BruteForcesDES[numThreads];
+        BruteForceDES[] des = new BruteForceDES[numThreads];
         SealedObject[] sealedObj = new SealedObject[numThreads];
 
         for (int i = 0; i < numThreads; i++) {
             sealedObj[i] = sldObj;
             des[i] = new BruteForceDES(i, interval, sealedObj[i], runstart);
-            threads[i] = new Threads(des[i]);
+            threads[i] = new Thread(des[i]);
             threads[i].start();
 		}
 		
