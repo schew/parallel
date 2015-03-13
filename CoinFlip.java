@@ -18,7 +18,7 @@ public class CoinFlip implements Runnable{
     public void run() {
         int headCount = 0;
         int tailCount = 0;
-        synchronized (CoinFlip.class) {
+    //    synchronized (CoinFlip.class) {
             for (int i = 0; i < numFlips/numThreads; i++) {
                 if (ThreadLocalRandom.current().nextInt(2) == 1) {
                     ++headCount;
@@ -26,7 +26,7 @@ public class CoinFlip implements Runnable{
                     ++tailCount;
                 }
             }
-        }
+    //    }
         numHeads += headCount;
         numTails += tailCount;
     }
