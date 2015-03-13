@@ -2,10 +2,10 @@
 import java.util.concurrent.ThreadLocalRandom;
 
 public class CoinFlip implements Runnable{
-    static long numHeads;
-    static long numTails;
-    static long numThreads;
-    static long numFlips;
+    long headCount;
+    long numThreads;
+    long numFlips;
+    long tailCount;
 
     // Constructor for Flip
     public CoinFlip(long nT, long nF) {
@@ -13,9 +13,17 @@ public class CoinFlip implements Runnable{
         this.numFlips = nF;
     }
 
+    public long getHeads() {
+        return this.headCount;
+    }
+
+    public long getTails() {
+        return tailCount;
+    }
+
     public void run() {
-        long headCount = 0;
-        long tailCount = 0;
+        headCount = 0;
+        tailCount = 0;
         for (long i = 0; i < numFlips/numThreads; i++) {
             if (ThreadLocalRandom.current().nextInt(2) == 1) {
                 ++headCount;
@@ -23,10 +31,7 @@ public class CoinFlip implements Runnable{
                 ++tailCount;
             }
         }
-        synchronized (CoinFlip.class) {
-            numHeads += headCount;
-            numTails += tailCount;
-        }
+System.out.println("run " + headCount);
     }
 
     public static void main (String[] args) {
@@ -39,12 +44,17 @@ public class CoinFlip implements Runnable{
         long nT = Long.parseLong(args[0]);
         long nF = Long.parseLong(args[1]);
 
+        long numHeads = 0;
+        long numTails = 0;
+
         // Create array of threads and start timer
         Thread[] threads = new Thread[(int)nT];
+        CoinFlip[] flippers = new CoinFlip[(int)nT];
         long startTime = System.currentTimeMillis();
         // Start threads
         for (int i = 0; i < nT; i++) {
-            threads[i] = new Thread(new CoinFlip(nT, nF));
+            flippers[i] = new CoinFlip(nT, nF);
+            threads[i] = new Thread(flippers[i]);
             threads[i].start();
         }
         //long runTime = System.currentTimeMillis() - startTime;
@@ -52,12 +62,16 @@ public class CoinFlip implements Runnable{
         // Join threads
         for (int i = 0; i < nT; i++) {
             try {
+System.out.println(flippers[i].getHeads() + " flippers");
+                numHeads += flippers[i].getHeads();
+                numTails += flippers[i].getTails();
                 threads[i].join();
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
         }
         long runTime = System.currentTimeMillis() - startTime;
+
         // Print out information
         System.out.println(numHeads + " heads in " + nF + " coin tosses");
         System.out.println("Elapsed time: " + runTime);
