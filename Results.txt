@@ -1,336 +1,144 @@
-499994089 heads in 1000000000 coin tosses
-Elapsed time: 15250
+499999860 heads in 1000000000 coin tosses
+Elapsed time: 22255
 1000000000
-499973977 heads in 1000000000 coin tosses
-Elapsed time: 15251
+499992930 heads in 1000000000 coin tosses
+Elapsed time: 22251
 1000000000
-500016717 heads in 1000000000 coin tosses
-Elapsed time: 15250
+499997952 heads in 1000000000 coin tosses
+Elapsed time: 22253
 1000000000
-499995783 heads in 1000000000 coin tosses
-Elapsed time: 15251
+500018524 heads in 1000000000 coin tosses
+Elapsed time: 11550
 1000000000
-499991576 heads in 1000000000 coin tosses
-Elapsed time: 7638
-1000000000
-500019846 heads in 1000000000 coin tosses
-Elapsed time: 7637
-1000000000
-500014827 heads in 1000000000 coin tosses
-Elapsed time: 7638
-1000000000
-499997219 heads in 1000000000 coin tosses
-Elapsed time: 7637
-1000000000
-499974348 heads in 1000000000 coin tosses
-Elapsed time: 5098
-999999999
-499989579 heads in 1000000000 coin tosses
-Elapsed time: 4948
-999999999
-499988972 heads in 1000000000 coin tosses
-Elapsed time: 5097
-999999999
-500015071 heads in 1000000000 coin tosses
-Elapsed time: 5096
-999999999
-500013578 heads in 1000000000 coin tosses
-Elapsed time: 3828
-1000000000
-499986959 heads in 1000000000 coin tosses
-Elapsed time: 3828
-1000000000
-499985170 heads in 1000000000 coin tosses
-Elapsed time: 3929
-1000000000
-499994233 heads in 1000000000 coin tosses
-Elapsed time: 3828
-1000000000
-500018854 heads in 1000000000 coin tosses
-Elapsed time: 3065
-1000000000
-499997130 heads in 1000000000 coin tosses
-Elapsed time: 3148
-1000000000
-499991349 heads in 1000000000 coin tosses
-Elapsed time: 3146
-1000000000
-500005081 heads in 1000000000 coin tosses
-Elapsed time: 3145
-1000000000
-499986281 heads in 1000000000 coin tosses
-Elapsed time: 3368
-999999996
-500000070 heads in 1000000000 coin tosses
-Elapsed time: 2624
-999999996
-499991757 heads in 1000000000 coin tosses
-Elapsed time: 2624
-999999996
-499995074 heads in 1000000000 coin tosses
-Elapsed time: 2624
-999999996
-499989892 heads in 1000000000 coin tosses
-Elapsed time: 2251
-999999994
-500000367 heads in 1000000000 coin tosses
-Elapsed time: 2252
-999999994
-500020501 heads in 1000000000 coin tosses
-Elapsed time: 2889
-999999994
-499980096 heads in 1000000000 coin tosses
-Elapsed time: 2890
-999999994
-500002029 heads in 1000000000 coin tosses
-Elapsed time: 1974
-1000000000
-500003377 heads in 1000000000 coin tosses
-Elapsed time: 2529
-1000000000
-499994164 heads in 1000000000 coin tosses
-Elapsed time: 2066
-1000000000
-499977696 heads in 1000000000 coin tosses
-Elapsed time: 1974
-1000000000
-500006292 heads in 1000000000 coin tosses
-Elapsed time: 2210
-999999999
-499980100 heads in 1000000000 coin tosses
-Elapsed time: 2256
-999999999
-499988392 heads in 1000000000 coin tosses
-Elapsed time: 2255
-999999999
-499985515 heads in 1000000000 coin tosses
-Elapsed time: 2163
-999999999
-499971282 heads in 1000000000 coin tosses
-Elapsed time: 2035
-1000000000
-499995814 heads in 1000000000 coin tosses
-Elapsed time: 1966
-1000000000
-499997265 heads in 1000000000 coin tosses
-Elapsed time: 2032
-1000000000
-499991097 heads in 1000000000 coin tosses
-Elapsed time: 1975
-1000000000
-499980642 heads in 1000000000 coin tosses
-Elapsed time: 1851
-999999990
-500024900 heads in 1000000000 coin tosses
-Elapsed time: 1843
-999999990
-499982010 heads in 1000000000 coin tosses
-Elapsed time: 1849
-999999990
-500014596 heads in 1000000000 coin tosses
-Elapsed time: 1777
-999999990
-499980754 heads in 1000000000 coin tosses
-Elapsed time: 1698
-999999996
-499989573 heads in 1000000000 coin tosses
-Elapsed time: 1701
-999999996
-500013139 heads in 1000000000 coin tosses
-Elapsed time: 1700
-999999996
-499982395 heads in 1000000000 coin tosses
-Elapsed time: 1697
-999999996
-500010520 heads in 1000000000 coin tosses
-Elapsed time: 1570
-999999988
-499975600 heads in 1000000000 coin tosses
-Elapsed time: 1572
-999999988
-500020872 heads in 1000000000 coin tosses
-Elapsed time: 1568
-999999988
-500025542 heads in 1000000000 coin tosses
-Elapsed time: 1576
-999999988
-500022619 heads in 1000000000 coin tosses
-Elapsed time: 1463
-999999994
-500011366 heads in 1000000000 coin tosses
-Elapsed time: 1495
-999999994
-500007431 heads in 1000000000 coin tosses
-Elapsed time: 1516
-999999994
-500006467 heads in 1000000000 coin tosses
-Elapsed time: 1486
-999999994
-499955977 heads in 1000000000 coin tosses
-Elapsed time: 1410
-999999990
-499965727 heads in 1000000000 coin tosses
-Elapsed time: 1403
-999999990
-499990940 heads in 1000000000 coin tosses
-Elapsed time: 1368
-999999990
-499995001 heads in 1000000000 coin tosses
-Elapsed time: 1417
-999999990
-500018337 heads in 1000000000 coin tosses
-Elapsed time: 1335
-1000000000
-499998844 heads in 1000000000 coin tosses
-Elapsed time: 1294
-1000000000
-500003430 heads in 1000000000 coin tosses
-Elapsed time: 1364
-1000000000
-500015192 heads in 1000000000 coin tosses
-Elapsed time: 1333
-1000000000
-500008713 heads in 1000000000 coin tosses
-Elapsed time: 22257
-1000000000
-500021499 heads in 1000000000 coin tosses
-Elapsed time: 22252
-1000000000
-500002892 heads in 1000000000 coin tosses
-Elapsed time: 22252
-1000000000
-500007845 heads in 1000000000 coin tosses
+499988194 heads in 1000000000 coin tosses
 Elapsed time: 11549
 1000000000
-500000428 heads in 1000000000 coin tosses
-Elapsed time: 11550
+500014406 heads in 1000000000 coin tosses
+Elapsed time: 11549
 1000000000
-499977890 heads in 1000000000 coin tosses
-Elapsed time: 11550
-1000000000
-499991841 heads in 1000000000 coin tosses
-Elapsed time: 7706
+500033571 heads in 1000000000 coin tosses
+Elapsed time: 7705
 999999999
-500001898 heads in 1000000000 coin tosses
-Elapsed time: 7708
+500008643 heads in 1000000000 coin tosses
+Elapsed time: 7705
 999999999
-499992702 heads in 1000000000 coin tosses
-Elapsed time: 7704
+500015928 heads in 1000000000 coin tosses
+Elapsed time: 7705
 999999999
-500002146 heads in 1000000000 coin tosses
+500007259 heads in 1000000000 coin tosses
 Elapsed time: 5784
 1000000000
-500008907 heads in 1000000000 coin tosses
-Elapsed time: 5783
+500010458 heads in 1000000000 coin tosses
+Elapsed time: 5784
 1000000000
-500001205 heads in 1000000000 coin tosses
-Elapsed time: 7607
+500010873 heads in 1000000000 coin tosses
+Elapsed time: 5784
 1000000000
-499990491 heads in 1000000000 coin tosses
-Elapsed time: 4639
-1000000000
-500003609 heads in 1000000000 coin tosses
+499998917 heads in 1000000000 coin tosses
 Elapsed time: 4631
 1000000000
-500006898 heads in 1000000000 coin tosses
+500006921 heads in 1000000000 coin tosses
+Elapsed time: 4629
+1000000000
+500015186 heads in 1000000000 coin tosses
 Elapsed time: 4630
 1000000000
-499977260 heads in 1000000000 coin tosses
+500018300 heads in 1000000000 coin tosses
+Elapsed time: 3869
+999999996
+499985900 heads in 1000000000 coin tosses
 Elapsed time: 3868
 999999996
-500022676 heads in 1000000000 coin tosses
-Elapsed time: 3868
+500010654 heads in 1000000000 coin tosses
+Elapsed time: 3867
 999999996
-499987209 heads in 1000000000 coin tosses
-Elapsed time: 3870
-999999996
-500012150 heads in 1000000000 coin tosses
+500003734 heads in 1000000000 coin tosses
+Elapsed time: 4155
+999999994
+500005482 heads in 1000000000 coin tosses
 Elapsed time: 3319
 999999994
-499994898 heads in 1000000000 coin tosses
-Elapsed time: 3318
+500018877 heads in 1000000000 coin tosses
+Elapsed time: 3375
 999999994
-500001458 heads in 1000000000 coin tosses
-Elapsed time: 3320
+499996925 heads in 1000000000 coin tosses
+Elapsed time: 3629
+1000000000
+500013470 heads in 1000000000 coin tosses
+Elapsed time: 2896
+1000000000
+500002114 heads in 1000000000 coin tosses
+Elapsed time: 3413
+1000000000
+499990271 heads in 1000000000 coin tosses
+Elapsed time: 3190
+999999999
+499976596 heads in 1000000000 coin tosses
+Elapsed time: 3388
+999999999
+499968087 heads in 1000000000 coin tosses
+Elapsed time: 3359
+999999999
+499991104 heads in 1000000000 coin tosses
+Elapsed time: 2994
+1000000000
+499994571 heads in 1000000000 coin tosses
+Elapsed time: 2925
+1000000000
+499992286 heads in 1000000000 coin tosses
+Elapsed time: 3047
+1000000000
+499979853 heads in 1000000000 coin tosses
+Elapsed time: 2776
+999999990
+500019714 heads in 1000000000 coin tosses
+Elapsed time: 2759
+999999990
+499998645 heads in 1000000000 coin tosses
+Elapsed time: 2759
+999999990
+500006210 heads in 1000000000 coin tosses
+Elapsed time: 2547
+999999996
+500008653 heads in 1000000000 coin tosses
+Elapsed time: 2425
+999999996
+500002011 heads in 1000000000 coin tosses
+Elapsed time: 2534
+999999996
+500007907 heads in 1000000000 coin tosses
+Elapsed time: 2354
+999999988
+500003811 heads in 1000000000 coin tosses
+Elapsed time: 2344
+999999988
+500004816 heads in 1000000000 coin tosses
+Elapsed time: 2358
+999999988
+500003934 heads in 1000000000 coin tosses
+Elapsed time: 2186
 999999994
-499995643 heads in 1000000000 coin tosses
-Elapsed time: 3801
-1000000000
-499980067 heads in 1000000000 coin tosses
-Elapsed time: 2895
-1000000000
-499996907 heads in 1000000000 coin tosses
-Elapsed time: 2921
-1000000000
-500015806 heads in 1000000000 coin tosses
-Elapsed time: 3383
-999999999
-500001441 heads in 1000000000 coin tosses
-Elapsed time: 3243
-999999999
-499991893 heads in 1000000000 coin tosses
-Elapsed time: 3385
-999999999
-500003894 heads in 1000000000 coin tosses
-Elapsed time: 3046
-1000000000
-500031208 heads in 1000000000 coin tosses
-Elapsed time: 3054
-1000000000
-500011461 heads in 1000000000 coin tosses
-Elapsed time: 2944
-1000000000
-499991434 heads in 1000000000 coin tosses
-Elapsed time: 2756
-999999990
-499993408 heads in 1000000000 coin tosses
-Elapsed time: 2774
-999999990
-500012155 heads in 1000000000 coin tosses
-Elapsed time: 2772
-999999990
-500021649 heads in 1000000000 coin tosses
-Elapsed time: 2531
-999999996
-500036535 heads in 1000000000 coin tosses
-Elapsed time: 2548
-999999996
-500004083 heads in 1000000000 coin tosses
-Elapsed time: 2544
-999999996
-499988096 heads in 1000000000 coin tosses
-Elapsed time: 2347
-999999988
-500044195 heads in 1000000000 coin tosses
-Elapsed time: 2352
-999999988
-499992879 heads in 1000000000 coin tosses
-Elapsed time: 2345
-999999988
-500022794 heads in 1000000000 coin tosses
+500018081 heads in 1000000000 coin tosses
+Elapsed time: 2182
+999999994
+499985931 heads in 1000000000 coin tosses
 Elapsed time: 2188
 999999994
-500008273 heads in 1000000000 coin tosses
-Elapsed time: 2193
-999999994
-499981799 heads in 1000000000 coin tosses
-Elapsed time: 2181
-999999994
-499990166 heads in 1000000000 coin tosses
-Elapsed time: 2057
+500017186 heads in 1000000000 coin tosses
+Elapsed time: 2049
 999999990
-500008091 heads in 1000000000 coin tosses
-Elapsed time: 2044
+500004974 heads in 1000000000 coin tosses
+Elapsed time: 2149
 999999990
-500032012 heads in 1000000000 coin tosses
-Elapsed time: 2021
+500007591 heads in 1000000000 coin tosses
+Elapsed time: 2048
 999999990
-499976609 heads in 1000000000 coin tosses
-Elapsed time: 1932
+499980184 heads in 1000000000 coin tosses
+Elapsed time: 1930
 1000000000
-499997976 heads in 1000000000 coin tosses
-Elapsed time: 1950
+500019732 heads in 1000000000 coin tosses
+Elapsed time: 1929
 1000000000
-500009659 heads in 1000000000 coin tosses
-Elapsed time: 1922
+500001167 heads in 1000000000 coin tosses
+Elapsed time: 1938
 1000000000
