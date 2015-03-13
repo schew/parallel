@@ -1,45 +1,18 @@
-499999477 heads in 1000000000 coin tosses
-Elapsed time: 22254
-1000000000
-499989774 heads in 1000000000 coin tosses
-Elapsed time: 22255
-1000000000
-500019689 heads in 1000000000 coin tosses
-Elapsed time: 22255
-1000000000
-1000028814 heads in 2000000000 coin tosses
-Elapsed time: 23084
-2000000000
-1000037095 heads in 2000000000 coin tosses
-Elapsed time: 23082
-2000000000
-999955713 heads in 2000000000 coin tosses
-Elapsed time: 23084
-2000000000
-2000050756 heads in 4000000000 coin tosses
-Elapsed time: 23089
-4000000000
-1999974443 heads in 4000000000 coin tosses
-Elapsed time: 23092
-4000000000
-1999956261 heads in 4000000000 coin tosses
-Elapsed time: 23090
-4000000000
-4000017014 heads in 8000000000 coin tosses
-Elapsed time: 23594
-8000000000
-3999931576 heads in 8000000000 coin tosses
-Elapsed time: 23676
-8000000000
-4000079628 heads in 8000000000 coin tosses
-Elapsed time: 23155
-8000000000
-8000022912 heads in 16000000000 coin tosses
-Elapsed time: 31853
-16000000000
-7999998565 heads in 16000000000 coin tosses
-Elapsed time: 30487
-16000000000
-8000012186 heads in 16000000000 coin tosses
-Elapsed time: 30477
-16000000000
+0 heads in 32000000000 coin tosses
+Elapsed time: 0
+0
+0 heads in 32000000000 coin tosses
+Elapsed time: 1
+0
+0 heads in 32000000000 coin tosses
+Elapsed time: 0
+0
+15999984922 heads in 32000000000 coin tosses
+Elapsed time: 60434
+32000000000
+15999850967 heads in 32000000000 coin tosses
+Elapsed time: 60456
+32000000000
+16000033828 heads in 32000000000 coin tosses
+Elapsed time: 60411
+32000000000

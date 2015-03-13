@@ -30,7 +30,7 @@ public class CoinFlip implements Runnable{
     }
 
     public static void main (String[] args) {
-        long startTime = System.currentTimeMillis();
+//        long startTime = System.currentTimeMillis();
         // Error if user doesn't put in the right arguments
         if (args.length != 2) {
             System.out.println("Usage: CoinFlip #threads #iterations");
@@ -41,13 +41,13 @@ public class CoinFlip implements Runnable{
 
         // Create array of threads and start timer
         Thread[] threads = new Thread[(int)nT];
-        
+        long startTime = System.currentTimeMillis();
         // Start threads
         for (int i = 0; i < nT; i++) {
             threads[i] = new Thread(new CoinFlip(nT, nF));
-            //threads[i].start();
+            threads[i].start();
         }
-        long runTime = System.currentTimeMillis() - startTime;
+        //long runTime = System.currentTimeMillis() - startTime;
 
         // Join threads
         for (int i = 0; i < nT; i++) {
@@ -57,8 +57,8 @@ public class CoinFlip implements Runnable{
                 e.printStackTrace();
             }
         }
-
-        // Prlong out information
+        long runTime = System.currentTimeMillis() - startTime;
+        // Print out information
         System.out.println(numHeads + " heads in " + nF + " coin tosses");
         System.out.println("Elapsed time: " + runTime);
         System.out.println(numHeads + numTails);
