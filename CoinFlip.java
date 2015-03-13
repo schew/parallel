@@ -4,8 +4,8 @@ import java.util.concurrent.ThreadLocalRandom;
 public class CoinFlip implements Runnable{
     static int numHeads;
     static int numTails;
-    static int numThreads;
-    static int numFlips;
+    int numThreads;
+    int numFlips;
 
     //public ThreadLocalRandom gen = new ThreadLocalRandom();
 
@@ -16,19 +16,20 @@ public class CoinFlip implements Runnable{
     }
 
     public void run() {
+        Thread.sleep(10*numThreads);
         int headCount = 0;
         int tailCount = 0;
-        synchronized (CoinFlip.class) {
-            for (int i = 0; i < numFlips/numThreads; i++) {
-                if (ThreadLocalRandom.current().nextInt(2) == 1) {
-                    ++headCount;
-                } else {
-                    ++tailCount;
-                }
+        for (int i = 0; i < numFlips/numThreads; i++) {
+            if (ThreadLocalRandom.current().nextInt(2) == 1) {
+                ++headCount;
+            } else {
+                ++tailCount;
             }
         }
-        numHeads += headCount;
-        numTails += tailCount;
+        synchronized (CoinFlip.class) {
+            numHeads += headCount;
+            numTails += tailCount;
+        }
     }
 
     public static void main (String[] args) {
