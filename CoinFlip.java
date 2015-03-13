@@ -4,8 +4,8 @@ import java.util.concurrent.ThreadLocalRandom;
 public class CoinFlip implements Runnable{
     static int numHeads;
     static int numTails;
-    int numThreads;
-    int numFlips;
+    static int numThreads;
+    static int numFlips;
 
     //public ThreadLocalRandom gen = new ThreadLocalRandom();
 
@@ -16,9 +16,6 @@ public class CoinFlip implements Runnable{
     }
 
     public void run() {
-try {
-    
-        Thread.sleep(10*numThreads);
         int headCount = 0;
         int tailCount = 0;
         for (int i = 0; i < numFlips/numThreads; i++) {
@@ -32,11 +29,6 @@ try {
             numHeads += headCount;
             numTails += tailCount;
         }
-} catch (InterruptedException e) {
-    e.printStackTrace();
-    // handle the exception...        
-    // For example consider calling Thread.currentThread().interrupt(); here.
-}
     }
 
     public static void main (String[] args) {
