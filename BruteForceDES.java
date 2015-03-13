@@ -57,7 +57,7 @@ class BruteForceDES implements Runnable
 		}
 	}
 
-    public run() {
+    public void run() {
 		// Search for the right key
 		for ( long i = start*interval; i < (start+1)*interval; i++ )
 		{
