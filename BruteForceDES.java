@@ -93,7 +93,6 @@ class BruteForceDES implements Runnable
 	//   arguments: SealedObject that holds on encrypted String
 	//   returns: plaintext String or null if a decryption error
 	//     This function will often return null when using an incorrect key.
-	//
 	public String decrypt ( SealedObject cipherObj )
 	{
 		try 
