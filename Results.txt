@@ -43,3 +43,48 @@ Elapsed time: 13236137
 500000242 heads in 1000000000 coin tosses
 Elapsed time: 26662647
 1000000000
+0 heads in 0 coin tosses
+Elapsed time: 164586
+0
+0 heads in 0 coin tosses
+Elapsed time: 148211
+0
+0 heads in 0 coin tosses
+Elapsed time: 147198
+0
+0 heads in 0 coin tosses
+Elapsed time: 203304
+0
+0 heads in 0 coin tosses
+Elapsed time: 220673
+0
+0 heads in 0 coin tosses
+Elapsed time: 213863
+0
+0 heads in 0 coin tosses
+Elapsed time: 399652
+0
+0 heads in 0 coin tosses
+Elapsed time: 397887
+0
+0 heads in 0 coin tosses
+Elapsed time: 386249
+0
+0 heads in 0 coin tosses
+Elapsed time: 888235
+0
+0 heads in 0 coin tosses
+Elapsed time: 864868
+0
+0 heads in 0 coin tosses
+Elapsed time: 850831
+0
+0 heads in 0 coin tosses
+Elapsed time: 1508048
+0
+0 heads in 0 coin tosses
+Elapsed time: 1313738
+0
+0 heads in 0 coin tosses
+Elapsed time: 1353846
+0
