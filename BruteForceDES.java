@@ -193,8 +193,8 @@ class BruteForceDES implements Runnable
 		// create object to printf to the console
 		//PrintStream p = new PrintStream(System.out);
 
-    long maxkey = ~(0L);
-    maxkey = maxkey >>> (64 - keybits);
+        long maxkey = ~(0L);
+        maxkey = maxkey >>> (64 - keybits);
 		
         long interval = (maxkey/numThreads);
 
