@@ -1,19 +1,11 @@
-C++ = g++
-FMP = -fopenmp
-CFLAGS = -c -g -fopenmp
+JAVAC=javac
+sources = $(wildcard *.java)
+classes = $(sources:.java=.class)
 
+all: $(classes)
 
-all: filter filter_optimized
+clean :
+	rm -f *.class
 
-filter: filter.o
-	$(C++) $(FMP) -o filter filter.o
-
-filter_optimized: filter_optimized.o
-	$(C++) $(FMP) -o filter_optimized filter_optimized.o
-
-clean:
-	rm -f *.o
-
-%.o:	%.cpp
-	$(C++) $(CFLAGS) $*.cpp
-
+%.class : %.java
+	$(JAVAC) $<
