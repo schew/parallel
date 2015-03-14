@@ -1,6 +1,15 @@
-    for i in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
-    do
-        java BruteForceDES $i 20 >> Results.txt
-        java BruteForceDES $i 20 >> Results.txt
-        java BruteForceDES $i 20 >> Results.txt
-    done
+        java BruteForceDES 1 20 >> Results.txt
+        java BruteForceDES 1 20 >> Results.txt
+        java BruteForceDES 1 20 >> Results.txt
+        java BruteForceDES 2 21 >> Results.txt
+        java BruteForceDES 2 21 >> Results.txt
+        java BruteForceDES 2 22 >> Results.txt
+        java BruteForceDES 4 22 >> Results.txt
+        java BruteForceDES 4 22 >> Results.txt
+        java BruteForceDES 4 22 >> Results.txt
+        java BruteForceDES 8 23 >> Results.txt
+        java BruteForceDES 8 23 >> Results.txt
+        java BruteForceDES 8 23 >> Results.txt
+        java BruteForceDES 16 24 >> Results.txt
+        java BruteForceDES 16 24 >> Results.txt
+        java BruteForceDES 16 24 >> Results.txt
