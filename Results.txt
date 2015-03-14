@@ -1,624 +1,624 @@
 Searched key number 0 at 1 milliseconds.
-Searched key number 100000 at 825 milliseconds.
-Searched key number 200000 at 1236 milliseconds.
-Searched key number 300000 at 1643 milliseconds.
-Searched key number 400000 at 2043 milliseconds.
-Found decrypt key 0000000000066433 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 500000 at 2449 milliseconds.
-Searched key number 600000 at 2851 milliseconds.
-Searched key number 700000 at 3248 milliseconds.
-Searched key number 800000 at 3640 milliseconds.
-Searched key number 900000 at 4031 milliseconds.
-Searched key number 1000000 at 4424 milliseconds.
-Completed search of 1048576 keys at 4618 milliseconds.
+Searched key number 100000 at 751 milliseconds.
+Searched key number 200000 at 1132 milliseconds.
+Searched key number 300000 at 1503 milliseconds.
+Searched key number 400000 at 1872 milliseconds.
+Searched key number 500000 at 2242 milliseconds.
+Searched key number 600000 at 2610 milliseconds.
+Searched key number 700000 at 2973 milliseconds.
+Searched key number 800000 at 3332 milliseconds.
+Searched key number 900000 at 3690 milliseconds.
+Searched key number 1000000 at 4049 milliseconds.
+Found decrypt key 00000000000f6795 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 4224 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 100000 at 825 milliseconds.
-Searched key number 200000 at 1239 milliseconds.
-Searched key number 300000 at 1646 milliseconds.
-Searched key number 400000 at 2049 milliseconds.
-Searched key number 500000 at 2451 milliseconds.
-Searched key number 600000 at 2850 milliseconds.
-Searched key number 700000 at 3242 milliseconds.
-Found decrypt key 00000000000b6966 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 800000 at 3635 milliseconds.
-Searched key number 900000 at 4027 milliseconds.
-Searched key number 1000000 at 4417 milliseconds.
-Completed search of 1048576 keys at 4606 milliseconds.
+Searched key number 100000 at 803 milliseconds.
+Searched key number 200000 at 1235 milliseconds.
+Searched key number 300000 at 1660 milliseconds.
+Found decrypt key 000000000005d729 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 400000 at 2083 milliseconds.
+Searched key number 500000 at 2502 milliseconds.
+Searched key number 600000 at 2918 milliseconds.
+Searched key number 700000 at 3324 milliseconds.
+Searched key number 800000 at 3731 milliseconds.
+Searched key number 900000 at 4139 milliseconds.
+Searched key number 1000000 at 4548 milliseconds.
+Completed search of 1048576 keys at 4745 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 100000 at 748 milliseconds.
-Searched key number 200000 at 1155 milliseconds.
-Searched key number 300000 at 1529 milliseconds.
-Searched key number 400000 at 1917 milliseconds.
-Searched key number 500000 at 2285 milliseconds.
-Found decrypt key 0000000000085572 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 600000 at 2654 milliseconds.
-Searched key number 700000 at 3027 milliseconds.
-Searched key number 800000 at 3418 milliseconds.
-Searched key number 900000 at 3778 milliseconds.
-Searched key number 1000000 at 4134 milliseconds.
-Completed search of 1048576 keys at 4307 milliseconds.
+Searched key number 100000 at 791 milliseconds.
+Searched key number 200000 at 1202 milliseconds.
+Searched key number 300000 at 1611 milliseconds.
+Searched key number 400000 at 2015 milliseconds.
+Searched key number 500000 at 2420 milliseconds.
+Searched key number 600000 at 2823 milliseconds.
+Searched key number 700000 at 3219 milliseconds.
+Searched key number 800000 at 3614 milliseconds.
+Searched key number 900000 at 4005 milliseconds.
+Searched key number 1000000 at 4397 milliseconds.
+Found decrypt key 00000000000fb1fc producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 4589 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 600000 at 595 milliseconds.
-Searched key number 100000 at 706 milliseconds.
-Searched key number 700000 at 1037 milliseconds.
-Searched key number 200000 at 1155 milliseconds.
-Found decrypt key 0000000000037b0f producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 800000 at 1709 milliseconds.
-Searched key number 300000 at 1898 milliseconds.
-Searched key number 900000 at 2450 milliseconds.
-Searched key number 400000 at 2633 milliseconds.
-Searched key number 1000000 at 3177 milliseconds.
-Searched key number 500000 at 3360 milliseconds.
-Completed search of 1048576 keys at 3534 milliseconds.
+Searched key number 600000 at 592 milliseconds.
+Searched key number 100000 at 699 milliseconds.
+Searched key number 700000 at 1041 milliseconds.
+Searched key number 200000 at 1150 milliseconds.
+Searched key number 800000 at 1492 milliseconds.
+Searched key number 300000 at 1599 milliseconds.
+Searched key number 900000 at 1936 milliseconds.
+Searched key number 400000 at 2047 milliseconds.
+Found decrypt key 00000000000f2f9f producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 1000000 at 2382 milliseconds.
+Searched key number 500000 at 2489 milliseconds.
+Completed search of 1048576 keys at 2598 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 600000 at 610 milliseconds.
-Searched key number 100000 at 722 milliseconds.
-Searched key number 700000 at 1067 milliseconds.
-Searched key number 200000 at 1181 milliseconds.
-Searched key number 800000 at 1515 milliseconds.
-Searched key number 300000 at 1625 milliseconds.
-Searched key number 900000 at 1971 milliseconds.
-Searched key number 400000 at 2070 milliseconds.
-Found decrypt key 000000000006920b producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 1000000 at 2416 milliseconds.
-Searched key number 500000 at 2511 milliseconds.
-Completed search of 1048576 keys at 2625 milliseconds.
+Found decrypt key 0000000000083e77 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 600000 at 571 milliseconds.
+Searched key number 100000 at 682 milliseconds.
+Searched key number 700000 at 991 milliseconds.
+Searched key number 200000 at 1115 milliseconds.
+Searched key number 800000 at 1412 milliseconds.
+Searched key number 300000 at 1530 milliseconds.
+Searched key number 900000 at 1837 milliseconds.
+Searched key number 400000 at 1966 milliseconds.
+Searched key number 1000000 at 2250 milliseconds.
+Searched key number 500000 at 2372 milliseconds.
+Completed search of 1048576 keys at 2469 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 600000 at 585 milliseconds.
-Searched key number 100000 at 694 milliseconds.
-Searched key number 700000 at 1028 milliseconds.
-Searched key number 200000 at 1139 milliseconds.
-Searched key number 800000 at 1473 milliseconds.
-Searched key number 300000 at 1585 milliseconds.
-Found decrypt key 000000000004c5ef producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 900000 at 1904 milliseconds.
-Searched key number 400000 at 2020 milliseconds.
-Searched key number 1000000 at 2341 milliseconds.
-Searched key number 500000 at 2465 milliseconds.
-Completed search of 1048576 keys at 2564 milliseconds.
+Searched key number 600000 at 583 milliseconds.
+Searched key number 100000 at 692 milliseconds.
+Searched key number 700000 at 1021 milliseconds.
+Searched key number 200000 at 1129 milliseconds.
+Found decrypt key 0000000000038e09 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 800000 at 1463 milliseconds.
+Searched key number 300000 at 1574 milliseconds.
+Searched key number 900000 at 1910 milliseconds.
+Searched key number 400000 at 2014 milliseconds.
+Searched key number 1000000 at 2344 milliseconds.
+Searched key number 500000 at 2446 milliseconds.
+Completed search of 1048576 keys at 2556 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 83 milliseconds.
+Searched key number 400000 at 441 milliseconds.
+Searched key number 100000 at 655 milliseconds.
+Searched key number 800000 at 688 milliseconds.
+Found decrypt key 0000000000070694 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 500000 at 894 milliseconds.
+Searched key number 200000 at 1105 milliseconds.
+Searched key number 900000 at 1146 milliseconds.
+Searched key number 600000 at 1342 milliseconds.
+Searched key number 300000 at 1552 milliseconds.
+Searched key number 1000000 at 1594 milliseconds.
+Completed search of 1048576 keys at 1794 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 82 milliseconds.
+Searched key number 400000 at 446 milliseconds.
+Found decrypt key 000000000000e4af producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 100000 at 664 milliseconds.
+Searched key number 800000 at 713 milliseconds.
+Searched key number 500000 at 896 milliseconds.
+Searched key number 200000 at 1110 milliseconds.
+Searched key number 900000 at 1160 milliseconds.
+Searched key number 600000 at 1337 milliseconds.
+Searched key number 300000 at 1557 milliseconds.
+Searched key number 1000000 at 1606 milliseconds.
+Completed search of 1048576 keys at 1809 milliseconds.
+Searched key number 0 at 2 milliseconds.
+Searched key number 700000 at 84 milliseconds.
+Searched key number 400000 at 445 milliseconds.
+Searched key number 100000 at 666 milliseconds.
+Found decrypt key 00000000000c127b producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 800000 at 719 milliseconds.
+Searched key number 500000 at 895 milliseconds.
+Searched key number 200000 at 1107 milliseconds.
+Searched key number 900000 at 1172 milliseconds.
+Searched key number 600000 at 1332 milliseconds.
+Searched key number 300000 at 1549 milliseconds.
+Searched key number 1000000 at 1612 milliseconds.
+Completed search of 1048576 keys at 1808 milliseconds.
+Searched key number 0 at 2 milliseconds.
+Searched key number 800000 at 253 milliseconds.
+Searched key number 300000 at 511 milliseconds.
+Searched key number 100000 at 674 milliseconds.
+Searched key number 900000 at 735 milliseconds.
+Searched key number 600000 at 836 milliseconds.
+Searched key number 200000 at 1144 milliseconds.
+Searched key number 1000000 at 1216 milliseconds.
+Searched key number 400000 at 1364 milliseconds.
+Searched key number 700000 at 1654 milliseconds.
+Searched key number 500000 at 2113 milliseconds.
+Found decrypt key 00000000000bd3b1 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 2297 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Found decrypt key 00000000000012e7 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 800000 at 259 milliseconds.
+Searched key number 300000 at 506 milliseconds.
+Searched key number 600000 at 812 milliseconds.
+Searched key number 100000 at 945 milliseconds.
+Searched key number 900000 at 1060 milliseconds.
+Searched key number 400000 at 1322 milliseconds.
+Searched key number 200000 at 1519 milliseconds.
+Searched key number 1000000 at 1580 milliseconds.
+Searched key number 700000 at 1633 milliseconds.
+Searched key number 500000 at 2096 milliseconds.
+Completed search of 1048576 keys at 2272 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 800000 at 263 milliseconds.
+Searched key number 300000 at 506 milliseconds.
+Searched key number 100000 at 634 milliseconds.
+Searched key number 900000 at 694 milliseconds.
+Searched key number 600000 at 817 milliseconds.
+Searched key number 200000 at 1060 milliseconds.
+Searched key number 1000000 at 1120 milliseconds.
+Found decrypt key 00000000000f7a46 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 400000 at 1340 milliseconds.
+Searched key number 700000 at 1606 milliseconds.
+Searched key number 500000 at 2045 milliseconds.
+Completed search of 1048576 keys at 2216 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 645 milliseconds.
+Searched key number 900000 at 673 milliseconds.
+Searched key number 300000 at 679 milliseconds.
+Searched key number 100000 at 740 milliseconds.
+Searched key number 500000 at 785 milliseconds.
+Found decrypt key 0000000000020ab3 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 800000 at 1191 milliseconds.
+Searched key number 1000000 at 1220 milliseconds.
+Searched key number 400000 at 1226 milliseconds.
+Searched key number 200000 at 1276 milliseconds.
+Searched key number 600000 at 1319 milliseconds.
+Completed search of 1048576 keys at 1451 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 900000 at 499 milliseconds.
+Searched key number 700000 at 597 milliseconds.
+Searched key number 300000 at 631 milliseconds.
+Searched key number 500000 at 645 milliseconds.
+Searched key number 100000 at 675 milliseconds.
+Searched key number 1000000 at 958 milliseconds.
+Found decrypt key 000000000005e084 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 800000 at 1052 milliseconds.
+Searched key number 400000 at 1083 milliseconds.
+Searched key number 200000 at 1123 milliseconds.
+Searched key number 600000 at 1137 milliseconds.
+Completed search of 1048576 keys at 1252 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 900000 at 450 milliseconds.
+Searched key number 700000 at 492 milliseconds.
+Searched key number 300000 at 583 milliseconds.
+Searched key number 500000 at 590 milliseconds.
+Searched key number 100000 at 624 milliseconds.
+Searched key number 1000000 at 900 milliseconds.
+Searched key number 800000 at 939 milliseconds.
+Searched key number 400000 at 1021 milliseconds.
+Searched key number 600000 at 1037 milliseconds.
+Found decrypt key 000000000002f99c producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 200000 at 1062 milliseconds.
+Completed search of 1048576 keys at 1154 milliseconds.
+Searched key number 0 at 2 milliseconds.
+Searched key number 700000 at 91 milliseconds.
+Searched key number 200000 at 272 milliseconds.
+Searched key number 900000 at 372 milliseconds.
+Searched key number 400000 at 387 milliseconds.
+Searched key number 600000 at 504 milliseconds.
+Searched key number 100000 at 613 milliseconds.
+Searched key number 800000 at 725 milliseconds.
+Searched key number 300000 at 731 milliseconds.
+Searched key number 1000000 at 844 milliseconds.
+Searched key number 500000 at 851 milliseconds.
+Found decrypt key 00000000000f7252 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 1052 milliseconds.
 Searched key number 0 at 1 milliseconds.
 Searched key number 700000 at 71 milliseconds.
-Searched key number 400000 at 412 milliseconds.
-Searched key number 100000 at 619 milliseconds.
-Searched key number 800000 at 628 milliseconds.
-Searched key number 500000 at 840 milliseconds.
-Searched key number 200000 at 1043 milliseconds.
-Searched key number 900000 at 1051 milliseconds.
-Searched key number 600000 at 1260 milliseconds.
-Found decrypt key 000000000009746c producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 300000 at 1466 milliseconds.
-Searched key number 1000000 at 1476 milliseconds.
-Completed search of 1048576 keys at 1672 milliseconds.
-Searched key number 0 at 2 milliseconds.
-Searched key number 700000 at 72 milliseconds.
-Searched key number 400000 at 541 milliseconds.
-Searched key number 100000 at 628 milliseconds.
-Searched key number 800000 at 961 milliseconds.
-Searched key number 200000 at 1052 milliseconds.
-Searched key number 500000 at 1185 milliseconds.
-Searched key number 900000 at 1400 milliseconds.
-Searched key number 300000 at 1489 milliseconds.
-Searched key number 600000 at 1631 milliseconds.
-Found decrypt key 0000000000097007 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 1000000 at 1826 milliseconds.
-Completed search of 1048576 keys at 2029 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 69 milliseconds.
-Searched key number 400000 at 419 milliseconds.
-Searched key number 100000 at 648 milliseconds.
-Searched key number 800000 at 653 milliseconds.
-Searched key number 500000 at 876 milliseconds.
-Found decrypt key 00000000000d3d2b producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 200000 at 1106 milliseconds.
-Searched key number 900000 at 1107 milliseconds.
-Searched key number 600000 at 1327 milliseconds.
-Searched key number 1000000 at 1560 milliseconds.
-Searched key number 300000 at 1564 milliseconds.
-Completed search of 1048576 keys at 1778 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 800000 at 258 milliseconds.
-Searched key number 300000 at 496 milliseconds.
-Searched key number 100000 at 654 milliseconds.
-Searched key number 600000 at 676 milliseconds.
-Searched key number 900000 at 721 milliseconds.
-Found decrypt key 00000000000de853 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 400000 at 976 milliseconds.
-Searched key number 200000 at 1135 milliseconds.
-Searched key number 700000 at 1155 milliseconds.
-Searched key number 1000000 at 1198 milliseconds.
-Searched key number 500000 at 1451 milliseconds.
-Completed search of 1048576 keys at 1551 milliseconds.
-Searched key number 0 at 2 milliseconds.
-Searched key number 800000 at 259 milliseconds.
-Searched key number 300000 at 510 milliseconds.
-Searched key number 100000 at 639 milliseconds.
-Searched key number 900000 at 705 milliseconds.
-Searched key number 600000 at 831 milliseconds.
-Searched key number 200000 at 1076 milliseconds.
-Found decrypt key 00000000000f33a7 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 1000000 at 1141 milliseconds.
-Searched key number 400000 at 1283 milliseconds.
-Searched key number 700000 at 1443 milliseconds.
-Searched key number 500000 at 1699 milliseconds.
-Completed search of 1048576 keys at 1797 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 800000 at 249 milliseconds.
-Searched key number 300000 at 503 milliseconds.
-Searched key number 100000 at 635 milliseconds.
-Searched key number 900000 at 692 milliseconds.
-Searched key number 600000 at 724 milliseconds.
-Found decrypt key 0000000000023567 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 400000 at 973 milliseconds.
-Searched key number 200000 at 1078 milliseconds.
-Searched key number 1000000 at 1132 milliseconds.
-Searched key number 700000 at 1185 milliseconds.
-Searched key number 500000 at 1408 milliseconds.
-Completed search of 1048576 keys at 1532 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 900000 at 487 milliseconds.
-Found decrypt key 0000000000013a44 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 700000 at 585 milliseconds.
-Searched key number 500000 at 620 milliseconds.
-Searched key number 300000 at 624 milliseconds.
-Searched key number 100000 at 664 milliseconds.
-Searched key number 1000000 at 948 milliseconds.
-Searched key number 600000 at 1079 milliseconds.
-Searched key number 400000 at 1081 milliseconds.
-Searched key number 800000 at 1085 milliseconds.
-Searched key number 200000 at 1118 milliseconds.
-Completed search of 1048576 keys at 1243 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Found decrypt key 000000000009e820 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 900000 at 878 milliseconds.
-Searched key number 700000 at 1014 milliseconds.
-Searched key number 500000 at 1189 milliseconds.
-Searched key number 300000 at 1298 milliseconds.
-Searched key number 100000 at 1439 milliseconds.
-Searched key number 1000000 at 2435 milliseconds.
-Searched key number 800000 at 2559 milliseconds.
-Searched key number 600000 at 2697 milliseconds.
-Searched key number 400000 at 2796 milliseconds.
-Searched key number 200000 at 2940 milliseconds.
-Completed search of 1048576 keys at 3124 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 900000 at 448 milliseconds.
-Searched key number 300000 at 580 milliseconds.
-Searched key number 100000 at 644 milliseconds.
-Searched key number 700000 at 692 milliseconds.
-Searched key number 500000 at 845 milliseconds.
-Searched key number 1000000 at 907 milliseconds.
-Searched key number 400000 at 1046 milliseconds.
-Found decrypt key 00000000000be5ab producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 800000 at 1149 milliseconds.
-Searched key number 200000 at 1232 milliseconds.
-Searched key number 600000 at 1330 milliseconds.
-Completed search of 1048576 keys at 1435 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 70 milliseconds.
-Searched key number 900000 at 299 milliseconds.
-Searched key number 200000 at 355 milliseconds.
-Searched key number 400000 at 480 milliseconds.
-Found decrypt key 000000000000ba3b producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 600000 at 574 milliseconds.
-Searched key number 800000 at 711 milliseconds.
-Searched key number 1000000 at 840 milliseconds.
-Searched key number 500000 at 1031 milliseconds.
-Searched key number 100000 at 1067 milliseconds.
-Searched key number 300000 at 1268 milliseconds.
-Completed search of 1048576 keys at 1488 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 79 milliseconds.
-Searched key number 200000 at 344 milliseconds.
-Searched key number 900000 at 353 milliseconds.
-Searched key number 400000 at 479 milliseconds.
-Found decrypt key 00000000000e1db1 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 600000 at 639 milliseconds.
-Searched key number 800000 at 711 milliseconds.
-Searched key number 100000 at 764 milliseconds.
-Searched key number 300000 at 951 milliseconds.
-Searched key number 500000 at 980 milliseconds.
-Searched key number 1000000 at 1012 milliseconds.
-Completed search of 1048576 keys at 1237 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 73 milliseconds.
-Found decrypt key 00000000000d9b4f producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 200000 at 303 milliseconds.
-Searched key number 900000 at 308 milliseconds.
-Searched key number 400000 at 565 milliseconds.
-Searched key number 600000 at 607 milliseconds.
+Searched key number 900000 at 277 milliseconds.
+Searched key number 200000 at 296 milliseconds.
+Found decrypt key 000000000005f432 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 400000 at 482 milliseconds.
+Searched key number 600000 at 592 milliseconds.
 Searched key number 100000 at 661 milliseconds.
-Searched key number 800000 at 703 milliseconds.
-Searched key number 1000000 at 759 milliseconds.
-Searched key number 300000 at 959 milliseconds.
-Searched key number 500000 at 1339 milliseconds.
-Completed search of 1048576 keys at 1423 milliseconds.
+Searched key number 800000 at 667 milliseconds.
+Searched key number 1000000 at 790 milliseconds.
+Searched key number 300000 at 810 milliseconds.
+Searched key number 500000 at 989 milliseconds.
+Completed search of 1048576 keys at 1095 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 300000 at 55 milliseconds.
-Searched key number 600000 at 65 milliseconds.
-Searched key number 900000 at 86 milliseconds.
-Found decrypt key 00000000000dc6a5 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 200000 at 409 milliseconds.
-Searched key number 800000 at 417 milliseconds.
-Searched key number 500000 at 529 milliseconds.
-Searched key number 1000000 at 664 milliseconds.
-Searched key number 700000 at 695 milliseconds.
-Searched key number 100000 at 794 milliseconds.
-Searched key number 400000 at 993 milliseconds.
-Completed search of 1048576 keys at 1338 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 300000 at 60 milliseconds.
-Searched key number 600000 at 74 milliseconds.
-Searched key number 900000 at 91 milliseconds.
-Searched key number 200000 at 460 milliseconds.
-Searched key number 500000 at 507 milliseconds.
-Searched key number 800000 at 591 milliseconds.
-Searched key number 1000000 at 684 milliseconds.
-Searched key number 100000 at 748 milliseconds.
-Found decrypt key 00000000000f8948 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 400000 at 773 milliseconds.
-Searched key number 700000 at 894 milliseconds.
-Completed search of 1048576 keys at 1240 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 300000 at 60 milliseconds.
-Searched key number 600000 at 70 milliseconds.
-Searched key number 900000 at 92 milliseconds.
-Searched key number 200000 at 398 milliseconds.
-Searched key number 500000 at 404 milliseconds.
-Searched key number 800000 at 409 milliseconds.
-Searched key number 1000000 at 641 milliseconds.
-Searched key number 400000 at 661 milliseconds.
-Found decrypt key 00000000000d7fb4 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 100000 at 883 milliseconds.
-Searched key number 700000 at 887 milliseconds.
-Completed search of 1048576 keys at 1087 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 400000 at 208 milliseconds.
-Searched key number 800000 at 258 milliseconds.
-Found decrypt key 00000000000a6ec8 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 700000 at 405 milliseconds.
-Searched key number 300000 at 513 milliseconds.
-Searched key number 1000000 at 582 milliseconds.
-Searched key number 500000 at 687 milliseconds.
-Searched key number 900000 at 722 milliseconds.
-Searched key number 200000 at 769 milliseconds.
-Searched key number 600000 at 825 milliseconds.
-Searched key number 100000 at 983 milliseconds.
-Completed search of 1048576 keys at 1250 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 400000 at 213 milliseconds.
-Searched key number 800000 at 256 milliseconds.
-Searched key number 300000 at 453 milliseconds.
-Searched key number 200000 at 504 milliseconds.
-Searched key number 700000 at 519 milliseconds.
-Found decrypt key 00000000000325c5 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 600000 at 538 milliseconds.
-Searched key number 1000000 at 610 milliseconds.
-Searched key number 100000 at 667 milliseconds.
-Searched key number 500000 at 739 milliseconds.
-Searched key number 900000 at 783 milliseconds.
-Completed search of 1048576 keys at 1194 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 400000 at 220 milliseconds.
-Searched key number 800000 at 237 milliseconds.
-Searched key number 300000 at 356 milliseconds.
-Searched key number 700000 at 387 milliseconds.
-Searched key number 200000 at 508 milliseconds.
-Found decrypt key 000000000008eb00 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 600000 at 646 milliseconds.
-Searched key number 1000000 at 673 milliseconds.
-Searched key number 900000 at 728 milliseconds.
-Searched key number 100000 at 746 milliseconds.
-Searched key number 500000 at 824 milliseconds.
-Completed search of 1048576 keys at 924 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 84 milliseconds.
-Searched key number 600000 at 330 milliseconds.
-Found decrypt key 00000000000ccd7e producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 500000 at 567 milliseconds.
-Searched key number 400000 at 632 milliseconds.
-Searched key number 900000 at 785 milliseconds.
-Searched key number 800000 at 848 milliseconds.
-Searched key number 300000 at 898 milliseconds.
-Searched key number 1000000 at 902 milliseconds.
-Searched key number 200000 at 1019 milliseconds.
-Searched key number 100000 at 1169 milliseconds.
-Completed search of 1048576 keys at 1306 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 98 milliseconds.
-Searched key number 600000 at 450 milliseconds.
-Searched key number 500000 at 931 milliseconds.
-Found decrypt key 0000000000009622 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 400000 at 1388 milliseconds.
-Searched key number 1000000 at 1748 milliseconds.
-Searched key number 300000 at 1848 milliseconds.
-Searched key number 200000 at 2101 milliseconds.
-Searched key number 900000 at 2188 milliseconds.
-Searched key number 800000 at 2600 milliseconds.
-Searched key number 100000 at 2659 milliseconds.
-Completed search of 1048576 keys at 2989 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 103 milliseconds.
-Searched key number 600000 at 330 milliseconds.
-Searched key number 400000 at 529 milliseconds.
-Searched key number 500000 at 534 milliseconds.
-Searched key number 300000 at 629 milliseconds.
-Searched key number 200000 at 655 milliseconds.
-Searched key number 900000 at 664 milliseconds.
-Searched key number 1000000 at 780 milliseconds.
+Searched key number 700000 at 72 milliseconds.
+Searched key number 200000 at 293 milliseconds.
+Searched key number 900000 at 297 milliseconds.
+Searched key number 400000 at 457 milliseconds.
+Searched key number 600000 at 557 milliseconds.
+Searched key number 800000 at 654 milliseconds.
 Searched key number 100000 at 814 milliseconds.
-Found decrypt key 0000000000084dcd producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 800000 at 1095 milliseconds.
-Completed search of 1048576 keys at 1190 milliseconds.
+Searched key number 1000000 at 829 milliseconds.
+Searched key number 300000 at 896 milliseconds.
+Searched key number 500000 at 974 milliseconds.
+Found decrypt key 00000000000fc6d4 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 1342 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Found decrypt key 00000000000d44b9 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 1000000 at 625 milliseconds.
-Searched key number 600000 at 712 milliseconds.
-Searched key number 900000 at 860 milliseconds.
-Searched key number 300000 at 882 milliseconds.
-Searched key number 400000 at 885 milliseconds.
-Searched key number 800000 at 907 milliseconds.
-Searched key number 700000 at 929 milliseconds.
-Searched key number 200000 at 942 milliseconds.
-Searched key number 500000 at 987 milliseconds.
-Searched key number 100000 at 990 milliseconds.
-Completed search of 1048576 keys at 1238 milliseconds.
+Searched key number 300000 at 51 milliseconds.
+Searched key number 600000 at 93 milliseconds.
+Searched key number 900000 at 94 milliseconds.
+Found decrypt key 00000000000e1b44 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 500000 at 535 milliseconds.
+Searched key number 800000 at 566 milliseconds.
+Searched key number 200000 at 665 milliseconds.
+Searched key number 1000000 at 864 milliseconds.
+Searched key number 100000 at 865 milliseconds.
+Searched key number 400000 at 898 milliseconds.
+Searched key number 700000 at 1013 milliseconds.
+Completed search of 1048576 keys at 1298 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 1000000 at 447 milliseconds.
-Searched key number 600000 at 587 milliseconds.
-Searched key number 800000 at 599 milliseconds.
-Searched key number 900000 at 604 milliseconds.
-Searched key number 400000 at 628 milliseconds.
-Searched key number 700000 at 629 milliseconds.
-Found decrypt key 00000000000c5d1f producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 300000 at 707 milliseconds.
-Searched key number 200000 at 728 milliseconds.
-Searched key number 500000 at 754 milliseconds.
-Searched key number 100000 at 810 milliseconds.
-Completed search of 1048576 keys at 883 milliseconds.
+Searched key number 300000 at 54 milliseconds.
+Searched key number 600000 at 67 milliseconds.
+Searched key number 900000 at 88 milliseconds.
+Found decrypt key 00000000000301d9 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 200000 at 421 milliseconds.
+Searched key number 800000 at 448 milliseconds.
+Searched key number 500000 at 466 milliseconds.
+Searched key number 100000 at 707 milliseconds.
+Searched key number 400000 at 707 milliseconds.
+Searched key number 1000000 at 911 milliseconds.
+Searched key number 700000 at 933 milliseconds.
+Completed search of 1048576 keys at 1137 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Found decrypt key 00000000000388e3 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 800000 at 626 milliseconds.
-Searched key number 900000 at 656 milliseconds.
-Searched key number 700000 at 662 milliseconds.
-Searched key number 500000 at 713 milliseconds.
-Searched key number 1000000 at 777 milliseconds.
-Searched key number 300000 at 928 milliseconds.
-Searched key number 200000 at 935 milliseconds.
-Searched key number 600000 at 940 milliseconds.
-Searched key number 400000 at 1018 milliseconds.
-Searched key number 100000 at 1083 milliseconds.
-Completed search of 1048576 keys at 1177 milliseconds.
+Searched key number 300000 at 59 milliseconds.
+Searched key number 600000 at 69 milliseconds.
+Searched key number 900000 at 91 milliseconds.
+Searched key number 800000 at 414 milliseconds.
+Searched key number 500000 at 454 milliseconds.
+Searched key number 200000 at 515 milliseconds.
+Searched key number 700000 at 645 milliseconds.
+Searched key number 1000000 at 732 milliseconds.
+Searched key number 100000 at 821 milliseconds.
+Searched key number 400000 at 1020 milliseconds.
+Found decrypt key 0000000000065e29 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 1224 milliseconds.
+Searched key number 0 at 2 milliseconds.
+Searched key number 400000 at 180 milliseconds.
+Searched key number 800000 at 266 milliseconds.
+Searched key number 700000 at 387 milliseconds.
+Searched key number 300000 at 424 milliseconds.
+Searched key number 1000000 at 562 milliseconds.
+Searched key number 200000 at 661 milliseconds.
+Searched key number 600000 at 672 milliseconds.
+Searched key number 500000 at 687 milliseconds.
+Found decrypt key 0000000000033a87 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 900000 at 772 milliseconds.
+Searched key number 100000 at 841 milliseconds.
+Completed search of 1048576 keys at 967 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 100000 at 257 milliseconds.
-Searched key number 300000 at 315 milliseconds.
-Searched key number 200000 at 329 milliseconds.
-Searched key number 400000 at 393 milliseconds.
-Searched key number 600000 at 416 milliseconds.
-Searched key number 500000 at 419 milliseconds.
-Searched key number 700000 at 478 milliseconds.
-Found decrypt key 00000000000d9ad7 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 800000 at 498 milliseconds.
-Searched key number 900000 at 567 milliseconds.
-Searched key number 1000000 at 667 milliseconds.
-Completed search of 1048576 keys at 1061 milliseconds.
+Searched key number 400000 at 197 milliseconds.
+Searched key number 800000 at 232 milliseconds.
+Searched key number 300000 at 332 milliseconds.
+Searched key number 700000 at 512 milliseconds.
+Searched key number 600000 at 529 milliseconds.
+Found decrypt key 000000000005a36b producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 200000 at 752 milliseconds.
+Searched key number 1000000 at 874 milliseconds.
+Searched key number 100000 at 1025 milliseconds.
+Searched key number 500000 at 1083 milliseconds.
+Searched key number 900000 at 1117 milliseconds.
+Completed search of 1048576 keys at 1286 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 100000 at 258 milliseconds.
-Searched key number 300000 at 312 milliseconds.
-Searched key number 200000 at 326 milliseconds.
-Searched key number 400000 at 378 milliseconds.
-Searched key number 500000 at 402 milliseconds.
-Searched key number 600000 at 496 milliseconds.
-Searched key number 700000 at 503 milliseconds.
-Found decrypt key 0000000000067a77 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 800000 at 527 milliseconds.
-Searched key number 900000 at 530 milliseconds.
-Searched key number 1000000 at 631 milliseconds.
-Completed search of 1048576 keys at 1026 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 100000 at 224 milliseconds.
-Found decrypt key 00000000000a429a producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 200000 at 338 milliseconds.
-Searched key number 300000 at 360 milliseconds.
-Searched key number 400000 at 424 milliseconds.
-Searched key number 500000 at 434 milliseconds.
-Searched key number 600000 at 468 milliseconds.
-Searched key number 700000 at 516 milliseconds.
-Searched key number 1000000 at 545 milliseconds.
-Searched key number 800000 at 596 milliseconds.
-Searched key number 900000 at 608 milliseconds.
-Completed search of 1048576 keys at 1079 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 108 milliseconds.
-Searched key number 800000 at 350 milliseconds.
-Searched key number 100000 at 368 milliseconds.
-Searched key number 900000 at 419 milliseconds.
-Searched key number 200000 at 480 milliseconds.
-Searched key number 300000 at 556 milliseconds.
-Searched key number 1000000 at 608 milliseconds.
-Searched key number 400000 at 656 milliseconds.
-Searched key number 500000 at 741 milliseconds.
-Found decrypt key 0000000000024bbb producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 600000 at 853 milliseconds.
+Searched key number 400000 at 246 milliseconds.
+Searched key number 800000 at 263 milliseconds.
+Searched key number 700000 at 418 milliseconds.
+Searched key number 300000 at 425 milliseconds.
+Found decrypt key 00000000000b0fc1 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 600000 at 695 milliseconds.
+Searched key number 200000 at 701 milliseconds.
+Searched key number 1000000 at 755 milliseconds.
+Searched key number 100000 at 801 milliseconds.
+Searched key number 500000 at 824 milliseconds.
+Searched key number 900000 at 866 milliseconds.
 Completed search of 1048576 keys at 994 milliseconds.
 Searched key number 0 at 1 milliseconds.
 Searched key number 700000 at 106 milliseconds.
-Searched key number 100000 at 300 milliseconds.
-Searched key number 800000 at 359 milliseconds.
-Searched key number 200000 at 428 milliseconds.
-Searched key number 900000 at 476 milliseconds.
-Searched key number 300000 at 498 milliseconds.
-Searched key number 1000000 at 525 milliseconds.
-Searched key number 400000 at 694 milliseconds.
-Searched key number 600000 at 698 milliseconds.
-Searched key number 500000 at 807 milliseconds.
-Found decrypt key 000000000007d887 producing message: Johns Hopkins afraid of the big bad wolf?
-Completed search of 1048576 keys at 1004 milliseconds.
+Found decrypt key 00000000000c86be producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 600000 at 332 milliseconds.
+Searched key number 500000 at 436 milliseconds.
+Searched key number 400000 at 550 milliseconds.
+Searched key number 1000000 at 655 milliseconds.
+Searched key number 900000 at 683 milliseconds.
+Searched key number 300000 at 791 milliseconds.
+Searched key number 800000 at 795 milliseconds.
+Searched key number 100000 at 864 milliseconds.
+Searched key number 200000 at 958 milliseconds.
+Completed search of 1048576 keys at 1127 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 87 milliseconds.
-Found decrypt key 00000000000c103e producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 100000 at 334 milliseconds.
-Searched key number 800000 at 369 milliseconds.
-Searched key number 200000 at 429 milliseconds.
-Searched key number 900000 at 431 milliseconds.
-Searched key number 300000 at 580 milliseconds.
-Searched key number 1000000 at 583 milliseconds.
-Searched key number 500000 at 630 milliseconds.
-Searched key number 400000 at 653 milliseconds.
-Searched key number 600000 at 876 milliseconds.
-Completed search of 1048576 keys at 991 milliseconds.
+Searched key number 700000 at 105 milliseconds.
+Searched key number 600000 at 338 milliseconds.
+Searched key number 500000 at 897 milliseconds.
+Searched key number 400000 at 1164 milliseconds.
+Found decrypt key 00000000000d71e5 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 300000 at 1606 milliseconds.
+Searched key number 1000000 at 1643 milliseconds.
+Searched key number 900000 at 1867 milliseconds.
+Searched key number 200000 at 2018 milliseconds.
+Searched key number 100000 at 2362 milliseconds.
+Searched key number 800000 at 2379 milliseconds.
+Completed search of 1048576 keys at 2638 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 900000 at 353 milliseconds.
-Searched key number 500000 at 385 milliseconds.
-Searched key number 100000 at 390 milliseconds.
-Searched key number 200000 at 481 milliseconds.
-Found decrypt key 00000000000a4cc4 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 1000000 at 528 milliseconds.
-Searched key number 600000 at 558 milliseconds.
-Searched key number 700000 at 731 milliseconds.
-Searched key number 300000 at 765 milliseconds.
-Searched key number 400000 at 854 milliseconds.
-Searched key number 800000 at 870 milliseconds.
-Completed search of 1048576 keys at 944 milliseconds.
+Searched key number 700000 at 97 milliseconds.
+Searched key number 600000 at 258 milliseconds.
+Found decrypt key 0000000000094bbd producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 500000 at 467 milliseconds.
+Searched key number 1000000 at 524 milliseconds.
+Searched key number 300000 at 568 milliseconds.
+Searched key number 400000 at 581 milliseconds.
+Searched key number 100000 at 655 milliseconds.
+Searched key number 200000 at 660 milliseconds.
+Searched key number 800000 at 684 milliseconds.
+Searched key number 900000 at 865 milliseconds.
+Completed search of 1048576 keys at 1140 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 500000 at 341 milliseconds.
-Searched key number 900000 at 353 milliseconds.
-Searched key number 100000 at 428 milliseconds.
-Searched key number 600000 at 558 milliseconds.
-Found decrypt key 00000000000e09cd producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 200000 at 585 milliseconds.
-Searched key number 1000000 at 585 milliseconds.
-Searched key number 700000 at 826 milliseconds.
-Searched key number 300000 at 903 milliseconds.
-Searched key number 800000 at 948 milliseconds.
-Searched key number 400000 at 1054 milliseconds.
-Completed search of 1048576 keys at 1106 milliseconds.
+Found decrypt key 00000000000e757d producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 1000000 at 640 milliseconds.
+Searched key number 500000 at 681 milliseconds.
+Searched key number 600000 at 691 milliseconds.
+Searched key number 900000 at 714 milliseconds.
+Searched key number 200000 at 743 milliseconds.
+Searched key number 300000 at 810 milliseconds.
+Searched key number 800000 at 842 milliseconds.
+Searched key number 700000 at 855 milliseconds.
+Searched key number 400000 at 883 milliseconds.
+Searched key number 100000 at 889 milliseconds.
+Completed search of 1048576 keys at 1137 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 900000 at 355 milliseconds.
-Searched key number 500000 at 380 milliseconds.
-Searched key number 100000 at 418 milliseconds.
-Searched key number 1000000 at 509 milliseconds.
-Searched key number 200000 at 516 milliseconds.
-Searched key number 600000 at 537 milliseconds.
-Searched key number 300000 at 680 milliseconds.
-Searched key number 700000 at 740 milliseconds.
-Searched key number 800000 at 859 milliseconds.
-Searched key number 400000 at 903 milliseconds.
-Found decrypt key 00000000000b001e producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 900000 at 628 milliseconds.
+Searched key number 1000000 at 648 milliseconds.
+Searched key number 700000 at 704 milliseconds.
+Found decrypt key 00000000000916c6 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 400000 at 728 milliseconds.
+Searched key number 300000 at 738 milliseconds.
+Searched key number 600000 at 750 milliseconds.
+Searched key number 800000 at 763 milliseconds.
+Searched key number 200000 at 818 milliseconds.
+Searched key number 100000 at 884 milliseconds.
+Searched key number 500000 at 912 milliseconds.
+Completed search of 1048576 keys at 1050 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 625 milliseconds.
+Searched key number 600000 at 639 milliseconds.
+Found decrypt key 0000000000093c4b producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 800000 at 685 milliseconds.
+Searched key number 400000 at 686 milliseconds.
+Searched key number 900000 at 697 milliseconds.
+Searched key number 1000000 at 754 milliseconds.
+Searched key number 300000 at 805 milliseconds.
+Searched key number 500000 at 960 milliseconds.
+Searched key number 200000 at 1054 milliseconds.
+Searched key number 100000 at 1089 milliseconds.
+Completed search of 1048576 keys at 1132 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 100000 at 260 milliseconds.
+Searched key number 200000 at 333 milliseconds.
+Searched key number 400000 at 360 milliseconds.
+Searched key number 300000 at 368 milliseconds.
+Found decrypt key 00000000000a9226 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 500000 at 443 milliseconds.
+Searched key number 700000 at 451 milliseconds.
+Searched key number 600000 at 505 milliseconds.
+Searched key number 800000 at 545 milliseconds.
+Searched key number 900000 at 568 milliseconds.
+Searched key number 1000000 at 687 milliseconds.
+Completed search of 1048576 keys at 1085 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 100000 at 263 milliseconds.
+Searched key number 200000 at 327 milliseconds.
+Searched key number 300000 at 457 milliseconds.
+Searched key number 500000 at 542 milliseconds.
+Searched key number 400000 at 587 milliseconds.
+Searched key number 600000 at 648 milliseconds.
+Searched key number 700000 at 927 milliseconds.
+Searched key number 800000 at 1130 milliseconds.
+Searched key number 900000 at 1267 milliseconds.
+Searched key number 1000000 at 1371 milliseconds.
+Found decrypt key 00000000000f8e69 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 2693 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 100000 at 203 milliseconds.
+Searched key number 200000 at 265 milliseconds.
+Searched key number 300000 at 291 milliseconds.
+Searched key number 500000 at 315 milliseconds.
+Searched key number 400000 at 340 milliseconds.
+Searched key number 700000 at 425 milliseconds.
+Searched key number 600000 at 425 milliseconds.
+Searched key number 1000000 at 488 milliseconds.
+Searched key number 900000 at 502 milliseconds.
+Searched key number 800000 at 504 milliseconds.
+Found decrypt key 0000000000042161 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 992 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 112 milliseconds.
+Searched key number 100000 at 336 milliseconds.
+Searched key number 800000 at 343 milliseconds.
+Found decrypt key 0000000000042c9b producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 200000 at 475 milliseconds.
+Searched key number 900000 at 494 milliseconds.
+Searched key number 300000 at 523 milliseconds.
+Searched key number 1000000 at 542 milliseconds.
+Searched key number 400000 at 583 milliseconds.
+Searched key number 500000 at 820 milliseconds.
+Searched key number 600000 at 914 milliseconds.
+Completed search of 1048576 keys at 1025 milliseconds.
+Searched key number 0 at 2 milliseconds.
+Searched key number 700000 at 109 milliseconds.
+Searched key number 800000 at 314 milliseconds.
+Searched key number 100000 at 357 milliseconds.
+Searched key number 900000 at 424 milliseconds.
+Searched key number 200000 at 447 milliseconds.
+Searched key number 1000000 at 539 milliseconds.
+Searched key number 300000 at 568 milliseconds.
+Found decrypt key 00000000000f5133 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 500000 at 639 milliseconds.
+Searched key number 400000 at 697 milliseconds.
+Searched key number 600000 at 911 milliseconds.
+Completed search of 1048576 keys at 1005 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 105 milliseconds.
+Searched key number 100000 at 356 milliseconds.
+Searched key number 800000 at 365 milliseconds.
+Found decrypt key 0000000000089cd1 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 200000 at 471 milliseconds.
+Searched key number 900000 at 483 milliseconds.
+Searched key number 300000 at 502 milliseconds.
+Searched key number 1000000 at 599 milliseconds.
+Searched key number 400000 at 603 milliseconds.
+Searched key number 500000 at 714 milliseconds.
+Searched key number 600000 at 730 milliseconds.
+Completed search of 1048576 keys at 970 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 900000 at 333 milliseconds.
+Searched key number 500000 at 389 milliseconds.
+Searched key number 100000 at 417 milliseconds.
+Searched key number 600000 at 447 milliseconds.
+Searched key number 1000000 at 538 milliseconds.
+Searched key number 200000 at 574 milliseconds.
+Searched key number 700000 at 667 milliseconds.
+Searched key number 800000 at 704 milliseconds.
+Found decrypt key 0000000000070c18 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 300000 at 781 milliseconds.
+Searched key number 400000 at 920 milliseconds.
+Completed search of 1048576 keys at 978 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 900000 at 370 milliseconds.
+Searched key number 500000 at 390 milliseconds.
+Searched key number 100000 at 441 milliseconds.
+Searched key number 600000 at 566 milliseconds.
+Searched key number 1000000 at 589 milliseconds.
+Searched key number 200000 at 635 milliseconds.
+Searched key number 700000 at 851 milliseconds.
+Searched key number 300000 at 867 milliseconds.
+Found decrypt key 000000000009bdf7 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 800000 at 996 milliseconds.
+Searched key number 400000 at 1040 milliseconds.
+Completed search of 1048576 keys at 1102 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 900000 at 363 milliseconds.
+Searched key number 500000 at 405 milliseconds.
+Searched key number 100000 at 432 milliseconds.
+Searched key number 600000 at 490 milliseconds.
+Searched key number 1000000 at 534 milliseconds.
+Searched key number 200000 at 609 milliseconds.
+Searched key number 300000 at 626 milliseconds.
+Searched key number 800000 at 738 milliseconds.
+Searched key number 700000 at 763 milliseconds.
+Found decrypt key 00000000000615c0 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 400000 at 945 milliseconds.
+Completed search of 1048576 keys at 974 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 300000 at 64 milliseconds.
+Searched key number 600000 at 99 milliseconds.
+Searched key number 900000 at 127 milliseconds.
+Searched key number 1000000 at 471 milliseconds.
+Searched key number 100000 at 487 milliseconds.
+Searched key number 400000 at 490 milliseconds.
+Searched key number 700000 at 492 milliseconds.
+Searched key number 200000 at 706 milliseconds.
+Searched key number 800000 at 729 milliseconds.
+Searched key number 500000 at 729 milliseconds.
+Found decrypt key 00000000000d7b4a producing message: Johns Hopkins afraid of the big bad wolf?
 Completed search of 1048576 keys at 940 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 300000 at 66 milliseconds.
+Searched key number 300000 at 65 milliseconds.
 Searched key number 600000 at 98 milliseconds.
-Searched key number 900000 at 131 milliseconds.
-Searched key number 400000 at 453 milliseconds.
+Searched key number 900000 at 128 milliseconds.
 Searched key number 100000 at 464 milliseconds.
+Searched key number 700000 at 466 milliseconds.
+Searched key number 400000 at 470 milliseconds.
+Searched key number 1000000 at 473 milliseconds.
+Found decrypt key 00000000000d0b0d producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 500000 at 557 milliseconds.
+Searched key number 800000 at 580 milliseconds.
+Searched key number 200000 at 683 milliseconds.
+Completed search of 1048576 keys at 891 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 300000 at 63 milliseconds.
+Searched key number 600000 at 93 milliseconds.
+Searched key number 900000 at 126 milliseconds.
+Searched key number 100000 at 433 milliseconds.
+Searched key number 700000 at 436 milliseconds.
+Searched key number 400000 at 478 milliseconds.
+Searched key number 1000000 at 482 milliseconds.
+Found decrypt key 000000000009d8f7 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 500000 at 692 milliseconds.
+Searched key number 800000 at 692 milliseconds.
+Searched key number 200000 at 699 milliseconds.
+Completed search of 1048576 keys at 912 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 117 milliseconds.
+Found decrypt key 00000000000be219 producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 500000 at 344 milliseconds.
+Searched key number 1000000 at 453 milliseconds.
+Searched key number 300000 at 488 milliseconds.
+Searched key number 100000 at 532 milliseconds.
+Searched key number 800000 at 561 milliseconds.
+Searched key number 600000 at 676 milliseconds.
+Searched key number 400000 at 778 milliseconds.
+Searched key number 200000 at 890 milliseconds.
+Searched key number 900000 at 895 milliseconds.
+Completed search of 1048576 keys at 1000 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 124 milliseconds.
+Searched key number 500000 at 408 milliseconds.
+Searched key number 300000 at 463 milliseconds.
+Searched key number 1000000 at 488 milliseconds.
+Searched key number 800000 at 584 milliseconds.
+Searched key number 100000 at 590 milliseconds.
+Searched key number 600000 at 668 milliseconds.
+Searched key number 400000 at 757 milliseconds.
+Searched key number 200000 at 848 milliseconds.
+Searched key number 900000 at 862 milliseconds.
+Found decrypt key 0000000000088331 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 942 milliseconds.
+Searched key number 0 at 1 milliseconds.
+Searched key number 700000 at 118 milliseconds.
+Searched key number 500000 at 348 milliseconds.
+Searched key number 300000 at 467 milliseconds.
 Searched key number 1000000 at 490 milliseconds.
-Searched key number 700000 at 493 milliseconds.
-Searched key number 500000 at 709 milliseconds.
-Searched key number 200000 at 712 milliseconds.
-Searched key number 800000 at 740 milliseconds.
-Found decrypt key 000000000007e2f6 producing message: Johns Hopkins afraid of the big bad wolf?
-Completed search of 1048576 keys at 920 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 300000 at 67 milliseconds.
-Searched key number 600000 at 101 milliseconds.
-Searched key number 900000 at 135 milliseconds.
-Found decrypt key 0000000000092f4a producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 1000000 at 446 milliseconds.
-Searched key number 100000 at 476 milliseconds.
-Searched key number 400000 at 480 milliseconds.
-Searched key number 700000 at 488 milliseconds.
-Searched key number 200000 at 702 milliseconds.
-Searched key number 500000 at 705 milliseconds.
-Searched key number 800000 at 720 milliseconds.
-Completed search of 1048576 keys at 918 milliseconds.
-Searched key number 0 at 2 milliseconds.
-Searched key number 300000 at 77 milliseconds.
-Searched key number 600000 at 107 milliseconds.
-Searched key number 900000 at 138 milliseconds.
-Searched key number 100000 at 480 milliseconds.
-Searched key number 400000 at 482 milliseconds.
-Searched key number 700000 at 485 milliseconds.
-Searched key number 1000000 at 491 milliseconds.
-Found decrypt key 0000000000040d51 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 200000 at 700 milliseconds.
-Searched key number 800000 at 702 milliseconds.
-Searched key number 500000 at 710 milliseconds.
-Completed search of 1048576 keys at 914 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Found decrypt key 00000000000446c0 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 700000 at 113 milliseconds.
-Searched key number 500000 at 412 milliseconds.
-Searched key number 1000000 at 469 milliseconds.
-Searched key number 300000 at 491 milliseconds.
-Searched key number 100000 at 560 milliseconds.
-Searched key number 800000 at 571 milliseconds.
-Searched key number 600000 at 666 milliseconds.
-Searched key number 400000 at 744 milliseconds.
-Searched key number 200000 at 793 milliseconds.
-Searched key number 900000 at 856 milliseconds.
-Completed search of 1048576 keys at 932 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 101 milliseconds.
-Searched key number 500000 at 358 milliseconds.
-Searched key number 1000000 at 413 milliseconds.
-Searched key number 300000 at 448 milliseconds.
-Found decrypt key 000000000007db33 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 100000 at 516 milliseconds.
-Searched key number 800000 at 537 milliseconds.
-Searched key number 600000 at 615 milliseconds.
-Searched key number 400000 at 713 milliseconds.
-Searched key number 200000 at 761 milliseconds.
-Searched key number 900000 at 781 milliseconds.
-Completed search of 1048576 keys at 890 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 700000 at 113 milliseconds.
-Searched key number 500000 at 346 milliseconds.
-Searched key number 300000 at 434 milliseconds.
-Searched key number 1000000 at 477 milliseconds.
-Searched key number 800000 at 519 milliseconds.
-Searched key number 100000 at 551 milliseconds.
-Found decrypt key 00000000000d55ea producing message: Johns Hopkins afraid of the big bad wolf?
+Searched key number 100000 at 531 milliseconds.
+Searched key number 800000 at 538 milliseconds.
 Searched key number 600000 at 633 milliseconds.
-Searched key number 400000 at 713 milliseconds.
-Searched key number 200000 at 832 milliseconds.
-Searched key number 900000 at 833 milliseconds.
-Completed search of 1048576 keys at 918 milliseconds.
+Searched key number 400000 at 676 milliseconds.
+Searched key number 200000 at 823 milliseconds.
+Searched key number 900000 at 847 milliseconds.
+Found decrypt key 00000000000aa933 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 928 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 200000 at 238 milliseconds.
-Searched key number 400000 at 289 milliseconds.
-Searched key number 600000 at 344 milliseconds.
-Searched key number 800000 at 374 milliseconds.
-Searched key number 1000000 at 408 milliseconds.
-Found decrypt key 0000000000024dbe producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 100000 at 578 milliseconds.
-Searched key number 300000 at 587 milliseconds.
-Searched key number 500000 at 629 milliseconds.
-Searched key number 700000 at 652 milliseconds.
-Searched key number 900000 at 696 milliseconds.
-Completed search of 1048576 keys at 894 milliseconds.
+Searched key number 200000 at 243 milliseconds.
+Searched key number 400000 at 348 milliseconds.
+Searched key number 600000 at 391 milliseconds.
+Searched key number 800000 at 395 milliseconds.
+Searched key number 1000000 at 449 milliseconds.
+Searched key number 100000 at 625 milliseconds.
+Searched key number 300000 at 640 milliseconds.
+Searched key number 500000 at 701 milliseconds.
+Searched key number 700000 at 719 milliseconds.
+Searched key number 900000 at 733 milliseconds.
+Found decrypt key 000000000007e7e2 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 957 milliseconds.
+Searched key number 0 at 2 milliseconds.
+Searched key number 200000 at 241 milliseconds.
+Searched key number 400000 at 285 milliseconds.
+Searched key number 600000 at 317 milliseconds.
+Searched key number 1000000 at 378 milliseconds.
+Searched key number 800000 at 425 milliseconds.
+Searched key number 100000 at 535 milliseconds.
+Searched key number 500000 at 623 milliseconds.
+Searched key number 300000 at 658 milliseconds.
+Searched key number 900000 at 684 milliseconds.
+Searched key number 700000 at 704 milliseconds.
+Found decrypt key 000000000002cd17 producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 899 milliseconds.
 Searched key number 0 at 1 milliseconds.
-Searched key number 200000 at 268 milliseconds.
-Searched key number 400000 at 300 milliseconds.
-Searched key number 600000 at 365 milliseconds.
-Found decrypt key 00000000000c339d producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 800000 at 411 milliseconds.
-Searched key number 1000000 at 426 milliseconds.
-Searched key number 300000 at 593 milliseconds.
-Searched key number 100000 at 619 milliseconds.
-Searched key number 500000 at 649 milliseconds.
-Searched key number 700000 at 734 milliseconds.
-Searched key number 900000 at 735 milliseconds.
-Completed search of 1048576 keys at 916 milliseconds.
-Searched key number 0 at 1 milliseconds.
-Searched key number 200000 at 239 milliseconds.
-Searched key number 400000 at 326 milliseconds.
-Searched key number 600000 at 346 milliseconds.
-Searched key number 800000 at 390 milliseconds.
-Searched key number 1000000 at 403 milliseconds.
-Searched key number 100000 at 560 milliseconds.
-Found decrypt key 00000000000a8159 producing message: Johns Hopkins afraid of the big bad wolf?
-Searched key number 300000 at 651 milliseconds.
-Searched key number 500000 at 659 milliseconds.
-Searched key number 900000 at 729 milliseconds.
-Searched key number 700000 at 768 milliseconds.
-Completed search of 1048576 keys at 936 milliseconds.
+Searched key number 200000 at 255 milliseconds.
+Searched key number 400000 at 323 milliseconds.
+Searched key number 600000 at 370 milliseconds.
+Searched key number 800000 at 421 milliseconds.
+Searched key number 1000000 at 487 milliseconds.
+Searched key number 100000 at 635 milliseconds.
+Searched key number 300000 at 657 milliseconds.
+Searched key number 500000 at 711 milliseconds.
+Searched key number 700000 at 786 milliseconds.
+Searched key number 900000 at 836 milliseconds.
+Found decrypt key 000000000003f3fb producing message: Johns Hopkins afraid of the big bad wolf?
+Completed search of 1048576 keys at 960 milliseconds.
