@@ -1,90 +1,9 @@
-500003190 heads in 1000000000 coin tosses
-Elapsed time: 202659
+499995704 heads in 1000000000 coin tosses
+Elapsed time: 1272560743
 1000000000
-500006157 heads in 1000000000 coin tosses
-Elapsed time: 149507
+499984778 heads in 1000000000 coin tosses
+Elapsed time: 2242783844
 1000000000
-499989331 heads in 1000000000 coin tosses
-Elapsed time: 152053
+500005208 heads in 1000000000 coin tosses
+Elapsed time: 2100360546
 1000000000
-499982962 heads in 1000000000 coin tosses
-Elapsed time: 233458
-1000000000
-500051275 heads in 1000000000 coin tosses
-Elapsed time: 230378
-1000000000
-500002551 heads in 1000000000 coin tosses
-Elapsed time: 225297
-1000000000
-499990415 heads in 1000000000 coin tosses
-Elapsed time: 2530016
-1000000000
-499992700 heads in 1000000000 coin tosses
-Elapsed time: 1605433
-1000000000
-499991054 heads in 1000000000 coin tosses
-Elapsed time: 1626145
-1000000000
-499976255 heads in 1000000000 coin tosses
-Elapsed time: 4057048
-1000000000
-499974363 heads in 1000000000 coin tosses
-Elapsed time: 3477553
-1000000000
-500025717 heads in 1000000000 coin tosses
-Elapsed time: 3506191
-1000000000
-500001199 heads in 1000000000 coin tosses
-Elapsed time: 23161929
-1000000000
-499992438 heads in 1000000000 coin tosses
-Elapsed time: 13236137
-1000000000
-500000242 heads in 1000000000 coin tosses
-Elapsed time: 26662647
-1000000000
-0 heads in 0 coin tosses
-Elapsed time: 164586
-0
-0 heads in 0 coin tosses
-Elapsed time: 148211
-0
-0 heads in 0 coin tosses
-Elapsed time: 147198
-0
-0 heads in 0 coin tosses
-Elapsed time: 203304
-0
-0 heads in 0 coin tosses
-Elapsed time: 220673
-0
-0 heads in 0 coin tosses
-Elapsed time: 213863
-0
-0 heads in 0 coin tosses
-Elapsed time: 399652
-0
-0 heads in 0 coin tosses
-Elapsed time: 397887
-0
-0 heads in 0 coin tosses
-Elapsed time: 386249
-0
-0 heads in 0 coin tosses
-Elapsed time: 888235
-0
-0 heads in 0 coin tosses
-Elapsed time: 864868
-0
-0 heads in 0 coin tosses
-Elapsed time: 850831
-0
-0 heads in 0 coin tosses
-Elapsed time: 1508048
-0
-0 heads in 0 coin tosses
-Elapsed time: 1313738
-0
-0 heads in 0 coin tosses
-Elapsed time: 1353846
-0
