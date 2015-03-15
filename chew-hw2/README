@@ -1,0 +1,9 @@
+Stephanie Chew
+schew@jhu.edu
+schew4
+
+This file includes BruteForceDES.java, SealedObject.java, CoinFlip.java, a Makefile, and solutions for homework 2. The code can be compiled using the command 'make'.
+
+In the implementation of CoinFlip, I implemented Runnable and so each of the threads that was created in the main method will go through the run method and using a random number generator, simulate a coin flip and count up the number of flips the coin made. This is made without using shared variables, so after each of the threads is finished and joined, the main method gets the number of heads from the CoinFlip object and adds it to its own running total of heads.
+
+In the implementation of BruteForceDES, we take a similar approach in implementing Runnable and have each of the threads go through the run method to brute force through each of the keys. However, there is the issue of knowing which threads are supposed to search which particular key, so we specify and pass through a particular interval that the thread is suppposed to search. If the key is found, then the thread will say so. No shared variables are necessary. However, the startup costs are greater as we have to pass through a different SealedObject for each of the BruteForceDES objects and make a new BruteForceDES object for each thread.
